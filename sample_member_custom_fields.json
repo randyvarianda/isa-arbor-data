@@ -1,0 +1,57 @@
+[
+    {
+        "id": 27041605,
+        "org": "https://easyverein.com/api/v2.0/organization/6611",
+        "userObject": "https://easyverein.com/api/v2.0/member/1203571",
+        "customField": "https://easyverein.com/api/v2.0/custom-field/27040548",
+        "value": "02244-9279446",
+        "_deleteAfterDate": null,
+        "_deletedBy": null,
+        "selectedOptions": [],
+        "changeRequests": []
+    },
+    {
+        "id": 27041606,
+        "org": "https://easyverein.com/api/v2.0/organization/6611",
+        "userObject": "https://easyverein.com/api/v2.0/member/1203571",
+        "customField": "https://easyverein.com/api/v2.0/custom-field/27040549",
+        "value": "http://www.arborcare.eu",
+        "_deleteAfterDate": null,
+        "_deletedBy": null,
+        "selectedOptions": [],
+        "changeRequests": []
+    },
+    {
+        "id": 27041607,
+        "org": "https://easyverein.com/api/v2.0/organization/6611",
+        "userObject": "https://easyverein.com/api/v2.0/member/1203571",
+        "customField": "https://easyverein.com/api/v2.0/custom-field/27040557",
+        "value": "227899",
+        "_deleteAfterDate": null,
+        "_deletedBy": null,
+        "selectedOptions": [],
+        "changeRequests": []
+    },
+    {
+        "id": 27041608,
+        "org": "https://easyverein.com/api/v2.0/organization/6611",
+        "userObject": "https://easyverein.com/api/v2.0/member/1203571",
+        "customField": "https://easyverein.com/api/v2.0/custom-field/27040566",
+        "value": "",
+        "_deleteAfterDate": null,
+        "_deletedBy": null,
+        "selectedOptions": [],
+        "changeRequests": []
+    },
+    {
+        "id": 27041609,
+        "org": "https://easyverein.com/api/v2.0/organization/6611",
+        "userObject": "https://easyverein.com/api/v2.0/member/1203571",
+        "customField": "https://easyverein.com/api/v2.0/custom-field/27040999",
+        "value": "2020-12-12",
+        "_deleteAfterDate": null,
+        "_deletedBy": null,
+        "selectedOptions": [],
+        "changeRequests": []
+    }
+]

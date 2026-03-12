@@ -1,0 +1,178 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f5f5f5;
+  color: #333;
+}
+
+header {
+  background-color: #2c3e50;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 20px auto;
+  padding: 0 20px;
+}
+
+.filters-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+#searchInput {
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.tabs {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.tab-btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 20px;
+  background-color: #e0e0e0;
+  color: #555;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s;
+  font-weight: 600;
+}
+
+.tab-btn:hover {
+  background-color: #d0d0d0;
+}
+
+.tab-btn.active {
+  background-color: #2c3e50;
+  color: white;
+}
+
+#map {
+  height: 400px;
+  border-radius: 8px;
+  margin-bottom: 30px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.members-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.member-card {
+  background: white;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s;
+  border-left: 5px solid #2c3e50;
+}
+
+.member-card.Firmenmitglied {
+  border-left-color: #e74c3c;
+}
+
+.member-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.member-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.member-logo {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  margin-right: 15px;
+  border-radius: 4px;
+  background: #f9f9f9;
+}
+
+.member-info h3 {
+  margin: 0 0 5px 0;
+  font-size: 1.1em;
+}
+
+.member-type {
+  font-size: 0.8em;
+  color: #7f8c8d;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-weight: bold;
+}
+
+.member-details p {
+  margin: 5px 0;
+  font-size: 0.9em;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.member-details a {
+  color: #3498db;
+  text-decoration: none;
+}
+
+.member-details a:hover {
+  text-decoration: underline;
+}
+
+.icon {
+  width: 16px;
+  text-align: center;
+  opacity: 0.6;
+}
+
+/* Pagination */
+.pagination {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin-top: 30px;
+  padding-bottom: 20px;
+}
+
+.page-btn {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  background: white;
+  cursor: pointer;
+  border-radius: 4px;
+  min-width: 35px;
+}
+
+.page-btn:hover {
+  background: #f0f0f0;
+}
+
+.page-btn.active {
+  background: #2c3e50;
+  color: white;
+  border-color: #2c3e50;
+}
+
+.page-btn:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}

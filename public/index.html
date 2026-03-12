@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mitgliederverzeichnis - ISA Germany</title>
+    <link rel="stylesheet" href="style.css" />
+    <!-- Leaflet CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+      crossorigin=""
+    />
+  </head>
+  <body>
+    <header>
+      <h1>Mitgliederverzeichnis</h1>
+      <p>Karte und Liste aller Mitglieder</p>
+    </header>
+
+    <div class="container">
+      <!-- Search / Filter -->
+      <div class="filters-container">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Suche nach Name, Stadt, PLZ..."
+        />
+
+        <div class="tabs">
+          <button class="tab-btn active" data-type="all">
+            Alle Mitglieder
+          </button>
+          <button class="tab-btn" data-type="Einzelmitglied">
+            Einzelmitglieder
+          </button>
+          <button class="tab-btn" data-type="Firmenmitglied">
+            Firmenmitglieder
+          </button>
+        </div>
+      </div>
+
+      <!-- Map -->
+      <div id="map"></div>
+
+      <!-- List -->
+      <div id="members-list" class="members-grid">
+        <!-- Members will be injected here -->
+      </div>
+
+      <!-- Pagination -->
+      <div id="pagination" class="pagination">
+        <!-- Pagination controls will be injected here -->
+      </div>
+    </div>
+
+    <!-- Leaflet JS -->
+    <script
+      src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+      crossorigin=""
+    ></script>
+    <script src="app.js"></script>
+  </body>
+</html>
