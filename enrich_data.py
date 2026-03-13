@@ -92,8 +92,15 @@ def process_members(limit=20):
     enriched_data = []
     
     # Load existing cache if any to skip geocoding
-    # This is optional but good if we re-run
-    # For now, let's just process fresh or simple
+    existing_coords = {}
+    if os.path.exists("public/data.json"):
+        try:
+            with open("public/data.json", "r") as f:
+                old_data = json.load(f)
+                for item in old_data:
+                    existing_coords[item['id']] = item.get('coords')
+        except:
+            pass
     
     print(f"Processing {len(active_members)} members...")
     
@@ -116,7 +123,15 @@ def process_members(limit=20):
         # 1. Determine Type (Einzel vs Firma)
         member_type = "Einzelmitglied"
         # We need to fetch groups to be sure
-        groups_data = fetch_groups(member['id'])
+        groups_response = fetch_groups(member['id'])
+        
+        # Handle paginated response or direct list
+        groups_data = []
+        if isinstance(groups_response, dict):
+            groups_data = groups_response.get('results', [])
+        elif isinstance(groups_response, list):
+            groups_data = groups_response
+            
         # groups_data is a list of group assignments. Each has 'memberGroup' URL.
         # We need to extract the ID from the URL or check if we can get ID directly.
         # The response structure from fetch_metadata was:
@@ -225,7 +240,14 @@ def process_members(limit=20):
         # 2. Get Website (Homepage)
         website = ""
         # Fetch custom fields
-        cfields = fetch_custom_fields(member['id'])
+        cfields_response = fetch_custom_fields(member['id'])
+        
+        cfields = []
+        if isinstance(cfields_response, dict):
+            cfields = cfields_response.get('results', [])
+        elif isinstance(cfields_response, list):
+            cfields = cfields_response
+
         for cf in cfields:
             # Check if it matches Homepage field
             # The customField in response is a URL: https://.../custom-field/27040549
@@ -251,6 +273,12 @@ def process_members(limit=20):
                 # Let's print what we got to debug.
                 # print(f"DEBUG: cf is {cf}")
                 pass
+        
+        # If website is still empty, check if it's in contactDetails (sometimes it is)
+        # Or maybe it's in a different field?
+        # Let's check contactDetails for 'website' or similar
+        if not website:
+             website = contact.get('website') or contact.get('companyWebsite')
         
         # 3. Get Image
         image_url = member.get('_profilePicture')
@@ -278,8 +306,13 @@ def process_members(limit=20):
             # Check if we have a valid address to geocode
             # To save time/limit, we can just geocode "Zip City Country" if street is sensitive or empty
             geo_query = f"{zip_code} {city}, {country}"
-            coords = get_coordinates(geo_query)
-            time.sleep(1) # Respect Nominatim rate limit (1 per sec)
+            
+            # Check cache
+            if member['id'] in existing_coords and existing_coords[member['id']]:
+                coords = existing_coords[member['id']]
+            else:
+                coords = get_coordinates(geo_query)
+                time.sleep(1) # Respect Nominatim rate limit (1 per sec)
             
         enriched_member = {
             "id": member['id'],
