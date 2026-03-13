@@ -15,7 +15,7 @@
         },
         "phone": "02244-3233",
         "email": "info@arbor-care.eu",
-        "website": "",
+        "website": null,
         "image": "images/1203571.png"
     },
     {
@@ -34,7 +34,7 @@
         },
         "phone": "07544-9873138",
         "email": "info@benjaminallgaier.de",
-        "website": "",
+        "website": null,
         "image": "images/1203572.png"
     },
     {
@@ -53,7 +53,7 @@
         },
         "phone": "036924-47782",
         "email": "blattgruenbaumpflege@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203573.png"
     },
     {
@@ -72,7 +72,7 @@
         },
         "phone": "",
         "email": "oedheimer.baumpflege@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203574.png"
     },
     {
@@ -91,7 +91,7 @@
         },
         "phone": "",
         "email": "info@mytree.de",
-        "website": "",
+        "website": null,
         "image": "images/1203575.png"
     },
     {
@@ -110,7 +110,7 @@
         },
         "phone": "030-45042081",
         "email": "balder@bht-berlin.de",
-        "website": "",
+        "website": null,
         "image": "images/1203576.png"
     },
     {
@@ -129,7 +129,7 @@
         },
         "phone": "0511-10570457",
         "email": "info@baum-barte.de",
-        "website": "",
+        "website": null,
         "image": "images/1203577.png"
     },
     {
@@ -145,7 +145,7 @@
         "coords": null,
         "phone": "0177-5789781",
         "email": "kontakt@zweigstelle-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -161,7 +161,7 @@
         "coords": null,
         "phone": "0176-23983892",
         "email": "daniel@baumpflegetreeo.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -180,7 +180,7 @@
         },
         "phone": "08161-8873588",
         "email": "info@bauroth.de",
-        "website": "",
+        "website": null,
         "image": "images/1203580.png"
     },
     {
@@ -196,7 +196,7 @@
         "coords": null,
         "phone": "06766-961673",
         "email": "info@arboristik-florentin.de",
-        "website": "",
+        "website": null,
         "image": "images/1203581.png"
     },
     {
@@ -215,7 +215,7 @@
         },
         "phone": "",
         "email": "becker@baumgerecht.de",
-        "website": "",
+        "website": null,
         "image": "images/1203582.png"
     },
     {
@@ -234,7 +234,7 @@
         },
         "phone": "0208-7404000",
         "email": "info@benk-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/1203583.png"
     },
     {
@@ -253,7 +253,7 @@
         },
         "phone": "",
         "email": "info@berlanda.de",
-        "website": "",
+        "website": null,
         "image": "images/1203584.png"
     },
     {
@@ -269,7 +269,7 @@
         "coords": null,
         "phone": "0151-28885660",
         "email": "buero@baumsteiger-allgaeu.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -285,7 +285,7 @@
         "coords": null,
         "phone": "0170-2955878",
         "email": "austritt_1420@keine-mail.local",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -304,7 +304,7 @@
         },
         "phone": "08105-272727",
         "email": "info@freeworker.de",
-        "website": "",
+        "website": null,
         "image": "images/1203587.png"
     },
     {
@@ -323,7 +323,7 @@
         },
         "phone": "02645-9999000",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203588.png"
     },
     {
@@ -342,7 +342,7 @@
         },
         "phone": "",
         "email": "mail@bork-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/1203589.png"
     },
     {
@@ -361,7 +361,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-boesemann.de",
-        "website": "",
+        "website": null,
         "image": "images/1203590.png"
     },
     {
@@ -380,7 +380,7 @@
         },
         "phone": "",
         "email": "janbo30@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203591.png"
     },
     {
@@ -396,7 +396,7 @@
         "coords": null,
         "phone": "0159-05084126",
         "email": "prsboyle@hotmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -415,7 +415,7 @@
         },
         "phone": "0176-41230102",
         "email": "michael@baumpflege-brauers.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -434,7 +434,7 @@
         },
         "phone": "06224-1472528",
         "email": "info@derbaumbraun.de",
-        "website": "",
+        "website": null,
         "image": "images/1203594.png"
     },
     {
@@ -453,7 +453,7 @@
         },
         "phone": "06131-81670",
         "email": "o.braun@bgl-braun.de",
-        "website": "",
+        "website": null,
         "image": "images/1203595.png"
     },
     {
@@ -469,7 +469,7 @@
         "coords": null,
         "phone": "0171-2143318",
         "email": "Markus@kletterspezialisten.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -488,7 +488,7 @@
         },
         "phone": "06241-975205",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203597.png"
     },
     {
@@ -507,7 +507,7 @@
         },
         "phone": "07221-60406",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203598.png"
     },
     {
@@ -526,7 +526,7 @@
         },
         "phone": "05144-971906",
         "email": "bromund.broeckel@t-online.de",
-        "website": "",
+        "website": null,
         "image": "images/1203599.png"
     },
     {
@@ -545,7 +545,7 @@
         },
         "phone": "",
         "email": "nico_brosda@live.de",
-        "website": "",
+        "website": null,
         "image": "images/1203600.png"
     },
     {
@@ -564,7 +564,7 @@
         },
         "phone": "08171-29190",
         "email": "bruns@baumspezialisten.de",
-        "website": "",
+        "website": null,
         "image": "images/1203601.png"
     },
     {
@@ -583,7 +583,7 @@
         },
         "phone": "04331-42450",
         "email": "Info@Baumpflege-Buenstorf.de",
-        "website": "",
+        "website": null,
         "image": "images/1203602.png"
     },
     {
@@ -602,7 +602,7 @@
         },
         "phone": "07022-36060",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203603.png"
     },
     {
@@ -618,7 +618,7 @@
         "coords": null,
         "phone": "",
         "email": "baumpflegeevergreen@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -637,7 +637,7 @@
         },
         "phone": "",
         "email": "info@busch-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203605.png"
     },
     {
@@ -656,7 +656,7 @@
         },
         "phone": "0761-62499",
         "email": "info@arborist.de",
-        "website": "",
+        "website": null,
         "image": "images/1203606.png"
     },
     {
@@ -675,7 +675,7 @@
         },
         "phone": "02561-897835",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203607.png"
     },
     {
@@ -694,7 +694,7 @@
         },
         "phone": "0176-24839027",
         "email": "post@baumpflege-potsdam.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -710,7 +710,7 @@
         "coords": null,
         "phone": "0176-10204179",
         "email": "Hannubmx@hotmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -729,7 +729,7 @@
         },
         "phone": "06103-602552",
         "email": "buero@freelance-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203610.png"
     },
     {
@@ -745,7 +745,7 @@
         "coords": null,
         "phone": "",
         "email": "info@dassow-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -761,7 +761,7 @@
         "coords": null,
         "phone": "0152-51466838",
         "email": "jamiedegel@hotmail.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -777,7 +777,7 @@
         "coords": null,
         "phone": "",
         "email": "demoux.a@googlemail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -796,7 +796,7 @@
         },
         "phone": "09123-9898970",
         "email": "info@dengler-ing.de",
-        "website": "",
+        "website": null,
         "image": "images/1203614.png"
     },
     {
@@ -815,7 +815,7 @@
         },
         "phone": "",
         "email": "info@baumpflegeduesseldorf.com",
-        "website": "",
+        "website": null,
         "image": "images/1203615.png"
     },
     {
@@ -834,7 +834,7 @@
         },
         "phone": "0351-8800148",
         "email": "info@deppner-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203616.png"
     },
     {
@@ -853,7 +853,7 @@
         },
         "phone": "",
         "email": "jdiederich@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -872,7 +872,7 @@
         },
         "phone": "",
         "email": "a.dippel@hotmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203618.png"
     },
     {
@@ -891,7 +891,7 @@
         },
         "phone": "0911-3224788",
         "email": "doege@t-online.de",
-        "website": "",
+        "website": null,
         "image": "images/1203619.png"
     },
     {
@@ -907,7 +907,7 @@
         "coords": null,
         "phone": "0179-2312094",
         "email": "dominicdoering@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -926,7 +926,7 @@
         },
         "phone": "0201-665177",
         "email": "info@kusche-baumdienst.de",
-        "website": "",
+        "website": null,
         "image": "images/1203621.png"
     },
     {
@@ -945,7 +945,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203622.png"
     },
     {
@@ -964,7 +964,7 @@
         },
         "phone": "+49 7684 907 907 22",
         "email": "buchhaltung@drayer.de",
-        "website": "",
+        "website": null,
         "image": "images/1203623.png"
     },
     {
@@ -983,7 +983,7 @@
         },
         "phone": "",
         "email": "info@stamm-und-ast.de",
-        "website": "",
+        "website": null,
         "image": "images/1203624.png"
     },
     {
@@ -1002,7 +1002,7 @@
         },
         "phone": "",
         "email": "info@dresely-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203625.png"
     },
     {
@@ -1021,7 +1021,7 @@
         },
         "phone": "0531-3800410",
         "email": "baumredaktion@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203626.png"
     },
     {
@@ -1040,7 +1040,7 @@
         },
         "phone": "040-7241310",
         "email": "dirk.dujesiefken@institut-fuer-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203627.png"
     },
     {
@@ -1059,7 +1059,7 @@
         },
         "phone": "01743556555",
         "email": "jakob@dbaumpfleger.de",
-        "website": "",
+        "website": null,
         "image": "images/1203628.png"
     },
     {
@@ -1075,7 +1075,7 @@
         "coords": null,
         "phone": "0171-1742063",
         "email": "ronny@baumkletterteam.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1094,7 +1094,7 @@
         },
         "phone": "",
         "email": "kontakt@baum-welt.de",
-        "website": "",
+        "website": null,
         "image": "images/1203630.png"
     },
     {
@@ -1110,7 +1110,7 @@
         "coords": null,
         "phone": "",
         "email": "magnus-falk@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203631.png"
     },
     {
@@ -1129,7 +1129,7 @@
         },
         "phone": "0631-6248972",
         "email": "info@das-holzteam.de",
-        "website": "",
+        "website": null,
         "image": "images/1203632.png"
     },
     {
@@ -1148,7 +1148,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203633.png"
     },
     {
@@ -1167,7 +1167,7 @@
         },
         "phone": "",
         "email": "gix@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203634.png"
     },
     {
@@ -1186,7 +1186,7 @@
         },
         "phone": "02237-6036946",
         "email": "info@baumpflege-fey.de",
-        "website": "",
+        "website": null,
         "image": "images/1203635.png"
     },
     {
@@ -1205,7 +1205,7 @@
         },
         "phone": "",
         "email": "info@foersterbaumundgarten.de",
-        "website": "",
+        "website": null,
         "image": "images/1203636.png"
     },
     {
@@ -1221,7 +1221,7 @@
         "coords": null,
         "phone": "",
         "email": "info@diefoerster.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1240,7 +1240,7 @@
         },
         "phone": "05951-988513",
         "email": "info@baumpflege-fortwengel.de",
-        "website": "",
+        "website": null,
         "image": "images/1203638.png"
     },
     {
@@ -1256,7 +1256,7 @@
         "coords": null,
         "phone": "0151-42539076",
         "email": "unterstark.baumpflege@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1275,7 +1275,7 @@
         },
         "phone": "04154-5967955",
         "email": "mail@gruenland-info.de",
-        "website": "",
+        "website": null,
         "image": "images/1203640.png"
     },
     {
@@ -1294,7 +1294,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-freund.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1313,7 +1313,7 @@
         },
         "phone": "",
         "email": "BaumpflegeFunke@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203642.png"
     },
     {
@@ -1329,7 +1329,7 @@
         "coords": null,
         "phone": "0174-9907069",
         "email": "winniefunke@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1345,7 +1345,7 @@
         "coords": null,
         "phone": "0163-1639788",
         "email": "fgaeckle@riseup.net",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1364,7 +1364,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-gehrmann.de",
-        "website": "",
+        "website": null,
         "image": "images/1203645.png"
     },
     {
@@ -1383,7 +1383,7 @@
         },
         "phone": "0911-98805222",
         "email": "post@oli-wood.de",
-        "website": "",
+        "website": null,
         "image": "images/1203646.png"
     },
     {
@@ -1402,7 +1402,7 @@
         },
         "phone": "02561-6956767",
         "email": "Johannes@gewersbaumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203647.png"
     },
     {
@@ -1421,7 +1421,7 @@
         },
         "phone": "",
         "email": "julian@baumpfle-g.de",
-        "website": "",
+        "website": null,
         "image": "images/1203648.png"
     },
     {
@@ -1440,7 +1440,7 @@
         },
         "phone": "016091008002",
         "email": "jan.goevert@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203649.png"
     },
     {
@@ -1459,7 +1459,7 @@
         },
         "phone": "0711-235661",
         "email": "pbs@cobranet.de",
-        "website": "",
+        "website": null,
         "image": "images/1203650.png"
     },
     {
@@ -1478,7 +1478,7 @@
         },
         "phone": "0621-8649676",
         "email": "webmaster@goos-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203651.png"
     },
     {
@@ -1497,7 +1497,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-gottwald.de",
-        "website": "",
+        "website": null,
         "image": "images/1203652.png"
     },
     {
@@ -1516,7 +1516,7 @@
         },
         "phone": "06031-9649670",
         "email": "Marugoe@web.de",
-        "website": "",
+        "website": null,
         "image": "images/1203653.png"
     },
     {
@@ -1535,7 +1535,7 @@
         },
         "phone": "",
         "email": "harald_graeb@arcor.de",
-        "website": "",
+        "website": null,
         "image": "images/1203654.png"
     },
     {
@@ -1554,7 +1554,7 @@
         },
         "phone": "069-783908",
         "email": "info@baumpflege-elbert.de",
-        "website": "",
+        "website": null,
         "image": "images/1203655.png"
     },
     {
@@ -1573,7 +1573,7 @@
         },
         "phone": "08395-932782",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203656.png"
     },
     {
@@ -1589,7 +1589,7 @@
         "coords": null,
         "phone": "0172-2604339",
         "email": "ogforst33@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1605,7 +1605,7 @@
         "coords": null,
         "phone": "0199-9433211",
         "email": "info@kommunaler-baum.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1624,7 +1624,7 @@
         },
         "phone": "01799783777",
         "email": "info@baumpflege-gutmann.de",
-        "website": "",
+        "website": null,
         "image": "images/1203659.png"
     },
     {
@@ -1643,7 +1643,7 @@
         },
         "phone": "01713458153",
         "email": "todotoday@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203660.png"
     },
     {
@@ -1659,7 +1659,7 @@
         "coords": null,
         "phone": "04151-898633",
         "email": "info@hagen-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203661.png"
     },
     {
@@ -1678,7 +1678,7 @@
         },
         "phone": "",
         "email": "gregor@hanschbaumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203662.png"
     },
     {
@@ -1697,7 +1697,7 @@
         },
         "phone": "07158-9867147",
         "email": "mhansch@hansch-baumtechnik.de",
-        "website": "",
+        "website": null,
         "image": "images/1203663.png"
     },
     {
@@ -1713,7 +1713,7 @@
         "coords": null,
         "phone": "04106-80909 0",
         "email": "rechnungen-ellerau@baumpflege-bollmann.de",
-        "website": "",
+        "website": null,
         "image": "images/1203664.png"
     },
     {
@@ -1727,12 +1727,12 @@
             "country": "Deutschland"
         },
         "coords": {
-            "lat": 51.667749,
-            "lon": 9.3389312
+            "lat": 51.6746501,
+            "lon": 9.3350083
         },
         "phone": "05273-35644",
         "email": "info@baumpflege-oberweser.de",
-        "website": "",
+        "website": null,
         "image": "images/1203665.png"
     },
     {
@@ -1751,7 +1751,7 @@
         },
         "phone": "05286-990508",
         "email": "info@baum-Art.com",
-        "website": "",
+        "website": null,
         "image": "images/1203666.png"
     },
     {
@@ -1770,7 +1770,7 @@
         },
         "phone": "0241-173905",
         "email": "baumpflege.herpertz@t-online.de",
-        "website": "",
+        "website": null,
         "image": "images/1203667.png"
     },
     {
@@ -1786,7 +1786,7 @@
         "coords": null,
         "phone": "0171-1736015",
         "email": "info@higgins-baumdienst.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1805,7 +1805,7 @@
         },
         "phone": "015254544664",
         "email": "baumpflege@astwerk.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1824,7 +1824,7 @@
         },
         "phone": "07531-3619339",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203670.png"
     },
     {
@@ -1843,7 +1843,7 @@
         },
         "phone": "05271-932585",
         "email": "janvonhofmann@hotmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203671.png"
     },
     {
@@ -1859,7 +1859,7 @@
         "coords": null,
         "phone": "",
         "email": "info@max-hoehn.de",
-        "website": "",
+        "website": null,
         "image": "images/1203672.png"
     },
     {
@@ -1875,7 +1875,7 @@
         "coords": null,
         "phone": "0157-35804729",
         "email": "baumpflege.holighaus@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1891,7 +1891,7 @@
         "coords": null,
         "phone": "0151-25619426",
         "email": "mail@baumpflegethomasholm.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1910,7 +1910,7 @@
         },
         "phone": "015204148307",
         "email": "Baumbuddy@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203675.png"
     },
     {
@@ -1926,7 +1926,7 @@
         "coords": null,
         "phone": "",
         "email": "info@funkygardens.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1945,7 +1945,7 @@
         },
         "phone": "",
         "email": "info@baumpflegehundertmark.de",
-        "website": "",
+        "website": null,
         "image": "images/1203677.png"
     },
     {
@@ -1964,7 +1964,7 @@
         },
         "phone": "0157-71913074",
         "email": "info@baumklettern-jacob.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1980,7 +1980,7 @@
         "coords": null,
         "phone": "0173-2738873",
         "email": "baumfalke84@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -1999,7 +1999,7 @@
         },
         "phone": "0151-11946390",
         "email": "info@baumpflegejansen.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2015,7 +2015,7 @@
         "coords": null,
         "phone": "0160-8060677",
         "email": "treeclimber69@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2031,7 +2031,7 @@
         "coords": null,
         "phone": "0163-2336365",
         "email": "info@baumpflegeMartinJurich.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2050,7 +2050,7 @@
         },
         "phone": "0641-4809232",
         "email": "nils.kabelmann@gmx.net",
-        "website": "",
+        "website": null,
         "image": "images/1203683.png"
     },
     {
@@ -2066,7 +2066,7 @@
         "coords": null,
         "phone": "0152-56303406",
         "email": "moritz@treecarekaether.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2085,7 +2085,7 @@
         },
         "phone": "",
         "email": "atelier-kalden@freie-werkgemeinschaft.de",
-        "website": "",
+        "website": null,
         "image": "images/1203685.png"
     },
     {
@@ -2104,7 +2104,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203686.png"
     },
     {
@@ -2123,7 +2123,7 @@
         },
         "phone": "",
         "email": "info@arboreal-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203687.png"
     },
     {
@@ -2142,7 +2142,7 @@
         },
         "phone": "0551-5032152",
         "email": "rolf.kehr@hawk.de",
-        "website": "",
+        "website": null,
         "image": "images/1203688.png"
     },
     {
@@ -2158,7 +2158,7 @@
         "coords": null,
         "phone": "",
         "email": "pfeni@terra-silva.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2174,7 +2174,7 @@
         "coords": null,
         "phone": "01577-9389993",
         "email": "baumpflege-klapprott@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2193,7 +2193,7 @@
         },
         "phone": "06049-950303",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203691.png"
     },
     {
@@ -2209,7 +2209,7 @@
         "coords": null,
         "phone": "0176-81098348",
         "email": "frederick.klein@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2228,7 +2228,7 @@
         },
         "phone": "015253625996",
         "email": "info@arbor-surveyor.de",
-        "website": "",
+        "website": null,
         "image": "images/1203693.png"
     },
     {
@@ -2247,7 +2247,7 @@
         },
         "phone": "07164-8160003",
         "email": "P.Klug@arbus.de",
-        "website": "",
+        "website": null,
         "image": "images/1203694.png"
     },
     {
@@ -2266,7 +2266,7 @@
         },
         "phone": "089-69375190",
         "email": "info@arboris.org",
-        "website": "",
+        "website": null,
         "image": "images/1203695.png"
     },
     {
@@ -2285,7 +2285,7 @@
         },
         "phone": "",
         "email": "gruen-in-form@posteo.de",
-        "website": "",
+        "website": null,
         "image": "images/1203696.png"
     },
     {
@@ -2304,7 +2304,7 @@
         },
         "phone": "04107-93685253",
         "email": "peterkohn@baumpfleger.ch",
-        "website": "",
+        "website": null,
         "image": "images/1203697.png"
     },
     {
@@ -2323,7 +2323,7 @@
         },
         "phone": "",
         "email": "baumpflege-kopsch@web.de",
-        "website": "",
+        "website": null,
         "image": "images/1203698.png"
     },
     {
@@ -2339,7 +2339,7 @@
         "coords": null,
         "phone": "01577-9306093",
         "email": "vincent.kranz@freenet.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2358,7 +2358,7 @@
         },
         "phone": "01573-1300632",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203700.png"
     },
     {
@@ -2377,7 +2377,7 @@
         },
         "phone": "",
         "email": "robert.kreissl@stadt-frankfurt.de",
-        "website": "",
+        "website": null,
         "image": "images/1203701.png"
     },
     {
@@ -2393,7 +2393,7 @@
         "coords": null,
         "phone": "0170-3149231",
         "email": "baumkrueger@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2412,7 +2412,7 @@
         },
         "phone": "",
         "email": "info@baumfachwerk.de",
-        "website": "",
+        "website": null,
         "image": "images/1203703.png"
     },
     {
@@ -2431,7 +2431,7 @@
         },
         "phone": "030-37584089",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203704.png"
     },
     {
@@ -2447,7 +2447,7 @@
         "coords": null,
         "phone": "",
         "email": "flacher@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2463,7 +2463,7 @@
         "coords": null,
         "phone": "",
         "email": "andreas.lambert@lambertnet.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2482,7 +2482,7 @@
         },
         "phone": "0761-6964970",
         "email": "post@baumpartner-breisgau.de",
-        "website": "",
+        "website": null,
         "image": "images/1203707.png"
     },
     {
@@ -2501,7 +2501,7 @@
         },
         "phone": "0561-93715357",
         "email": "w.lenzner@blattwerker.com",
-        "website": "",
+        "website": null,
         "image": "images/1203708.png"
     },
     {
@@ -2517,7 +2517,7 @@
         "coords": null,
         "phone": "",
         "email": "leupold.martin@t-online.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2536,7 +2536,7 @@
         },
         "phone": "02173-1626823",
         "email": "info@baumpflege-leven.de",
-        "website": "",
+        "website": null,
         "image": "images/1203710.png"
     },
     {
@@ -2555,7 +2555,7 @@
         },
         "phone": "030-23944773",
         "email": "mail@baumliebe.de",
-        "website": "",
+        "website": null,
         "image": "images/1203711.png"
     },
     {
@@ -2574,7 +2574,7 @@
         },
         "phone": "04241-970727",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203712.png"
     },
     {
@@ -2590,7 +2590,7 @@
         "coords": null,
         "phone": "0152-33522728",
         "email": "patrickloffler@aol.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2606,7 +2606,7 @@
         "coords": null,
         "phone": "",
         "email": "clemens@b31.net",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2622,7 +2622,7 @@
         "coords": null,
         "phone": "0151-50739917",
         "email": "kl-gala@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2641,7 +2641,7 @@
         },
         "phone": "0176-70928348",
         "email": "treewalker@gmx.net",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2660,7 +2660,7 @@
         },
         "phone": "030-8594866",
         "email": "dialog@gvl-baumdienst.de",
-        "website": "",
+        "website": null,
         "image": "images/1203717.png"
     },
     {
@@ -2676,7 +2676,7 @@
         "coords": null,
         "phone": "0177-6365573",
         "email": "bmaaser@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2695,7 +2695,7 @@
         },
         "phone": "07127-525255",
         "email": "Christoph.Mack@alles-am-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/1203719.png"
     },
     {
@@ -2714,7 +2714,7 @@
         },
         "phone": "",
         "email": "info@arboracrobat.de",
-        "website": "",
+        "website": null,
         "image": "images/1203720.png"
     },
     {
@@ -2733,7 +2733,7 @@
         },
         "phone": "0621-68 3333 59",
         "email": "mandel-gruene-dienste@vodafonemail.de",
-        "website": "",
+        "website": null,
         "image": "images/1203721.png"
     },
     {
@@ -2752,7 +2752,7 @@
         },
         "phone": "06172-777782",
         "email": "joerg.markloff@web.de",
-        "website": "",
+        "website": null,
         "image": "images/1203722.png"
     },
     {
@@ -2771,7 +2771,7 @@
         },
         "phone": "040-63973947",
         "email": "kontakt@arborartist.de",
-        "website": "",
+        "website": null,
         "image": "images/1203723.png"
     },
     {
@@ -2790,7 +2790,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203724.png"
     },
     {
@@ -2809,7 +2809,7 @@
         },
         "phone": "0221-5507722",
         "email": "info@baumpfleger.de",
-        "website": "",
+        "website": null,
         "image": "images/1203725.png"
     },
     {
@@ -2828,7 +2828,7 @@
         },
         "phone": "04703-9110368",
         "email": "info@merbitz-garten.de",
-        "website": "",
+        "website": null,
         "image": "images/1203726.png"
     },
     {
@@ -2847,7 +2847,7 @@
         },
         "phone": "0221-29874302",
         "email": "baumpflege@kronen-werk.de",
-        "website": "",
+        "website": null,
         "image": "images/1203727.png"
     },
     {
@@ -2861,12 +2861,12 @@
             "country": "Deutschland"
         },
         "coords": {
-            "lat": 48.0067058,
-            "lon": 11.5139111
+            "lat": 48.0068709,
+            "lon": 11.5139406
         },
         "phone": "",
         "email": "mail@samsbaum.de",
-        "website": "",
+        "website": null,
         "image": "images/1203728.png"
     },
     {
@@ -2882,7 +2882,7 @@
         "coords": null,
         "phone": "",
         "email": "rechnung@hdl-gartenbau.de ",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2901,7 +2901,7 @@
         },
         "phone": "07221-7028412",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203730.png"
     },
     {
@@ -2920,7 +2920,7 @@
         },
         "phone": "",
         "email": "info@pro-arbor.de",
-        "website": "",
+        "website": null,
         "image": "images/1203731.png"
     },
     {
@@ -2939,7 +2939,7 @@
         },
         "phone": "035208-956-0",
         "email": "rechnung@cityforest.de",
-        "website": "",
+        "website": null,
         "image": "images/1203732.png"
     },
     {
@@ -2958,7 +2958,7 @@
         },
         "phone": "0261-21483",
         "email": "info@tannenmueller.de",
-        "website": "",
+        "website": null,
         "image": "images/1203733.png"
     },
     {
@@ -2974,7 +2974,7 @@
         "coords": null,
         "phone": "",
         "email": "info@baumpflege-noerthemann.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -2993,7 +2993,7 @@
         },
         "phone": "",
         "email": "mathias.oppolzer@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203735.png"
     },
     {
@@ -3012,7 +3012,7 @@
         },
         "phone": "0511-447036",
         "email": "info@ovens.de",
-        "website": "",
+        "website": null,
         "image": "images/1203736.png"
     },
     {
@@ -3031,7 +3031,7 @@
         },
         "phone": "0171-6927482",
         "email": "janpeplow2@yahoo.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3050,7 +3050,7 @@
         },
         "phone": "07631-13057",
         "email": "info@baumkultur.de",
-        "website": "",
+        "website": null,
         "image": "images/1203738.png"
     },
     {
@@ -3069,7 +3069,7 @@
         },
         "phone": "0551-7076674",
         "email": "info@atp-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/1203739.png"
     },
     {
@@ -3088,7 +3088,7 @@
         },
         "phone": "06152-964960",
         "email": "info@baum4.de",
-        "website": "",
+        "website": null,
         "image": "images/1203740.png"
     },
     {
@@ -3104,7 +3104,7 @@
         "coords": null,
         "phone": "",
         "email": "info@gaertner-arbeiten.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3123,7 +3123,7 @@
         },
         "phone": "",
         "email": "post@grounds-buildings.de",
-        "website": "",
+        "website": null,
         "image": "images/1203742.png"
     },
     {
@@ -3142,7 +3142,7 @@
         },
         "phone": "0333.8350123",
         "email": "baumzeit@baumzeit.info",
-        "website": "",
+        "website": null,
         "image": "images/1203743.png"
     },
     {
@@ -3161,7 +3161,7 @@
         },
         "phone": "069-558220",
         "email": "info@baumpflege-rahmann.de",
-        "website": "",
+        "website": null,
         "image": "images/1203744.png"
     },
     {
@@ -3177,7 +3177,7 @@
         "coords": null,
         "phone": "",
         "email": "peterrammes@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3196,7 +3196,7 @@
         },
         "phone": "",
         "email": "info@baumpatrouille.de",
-        "website": "",
+        "website": null,
         "image": "images/1203746.png"
     },
     {
@@ -3215,7 +3215,7 @@
         },
         "phone": "",
         "email": "sascha.reisch@baumbua.de",
-        "website": "",
+        "website": null,
         "image": "images/1203747.png"
     },
     {
@@ -3231,7 +3231,7 @@
         "coords": null,
         "phone": "",
         "email": "m.rensing@baumgutachter.net",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3247,7 +3247,7 @@
         "coords": null,
         "phone": "0162-2375778",
         "email": "slackandy85@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3266,7 +3266,7 @@
         },
         "phone": "06196-7611777",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203750.png"
     },
     {
@@ -3282,7 +3282,7 @@
         "coords": null,
         "phone": "0173-8651645",
         "email": "kontakt@baumpflege-riechmann.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3301,7 +3301,7 @@
         },
         "phone": "07434-l936595",
         "email": "info@rinau-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203752.png"
     },
     {
@@ -3320,7 +3320,7 @@
         },
         "phone": "06221-71405200",
         "email": "frank.rinn@rinntech.com",
-        "website": "",
+        "website": null,
         "image": "images/1203753.png"
     },
     {
@@ -3339,7 +3339,7 @@
         },
         "phone": "",
         "email": "kontakt@baumpflege-rode.de",
-        "website": "",
+        "website": null,
         "image": "images/1203754.png"
     },
     {
@@ -3355,7 +3355,7 @@
         "coords": null,
         "phone": "0179-2178522",
         "email": "br@baumagent.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3374,7 +3374,7 @@
         },
         "phone": "",
         "email": "rudolph@arbosano.de",
-        "website": "",
+        "website": null,
         "image": "images/1203756.png"
     },
     {
@@ -3390,7 +3390,7 @@
         "coords": null,
         "phone": "0151-67716123",
         "email": "thomassack1@aol.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3409,7 +3409,7 @@
         },
         "phone": "04534-204606",
         "email": "post@dasgruenwerk.de",
-        "website": "",
+        "website": null,
         "image": "images/1203758.png"
     },
     {
@@ -3425,7 +3425,7 @@
         "coords": null,
         "phone": "0152-27180546",
         "email": "kontakt@baumpflege-sauer.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3441,7 +3441,7 @@
         "coords": null,
         "phone": "0179-665 8888",
         "email": "Baumschaab@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3460,7 +3460,7 @@
         },
         "phone": "",
         "email": "tillschaffers@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203761.png"
     },
     {
@@ -3476,7 +3476,7 @@
         "coords": null,
         "phone": "",
         "email": "ms@gartenpflege-immergruen.de",
-        "website": "",
+        "website": null,
         "image": "images/1203762.png"
     },
     {
@@ -3492,7 +3492,7 @@
         "coords": null,
         "phone": "",
         "email": "info@baumundseil.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3511,7 +3511,7 @@
         },
         "phone": "07271-51308",
         "email": "info@giglberger-schloss.de",
-        "website": "",
+        "website": null,
         "image": "images/1203764.png"
     },
     {
@@ -3530,7 +3530,7 @@
         },
         "phone": "05194-9000",
         "email": "jcs@grube.de",
-        "website": "",
+        "website": null,
         "image": "images/1203765.png"
     },
     {
@@ -3549,7 +3549,7 @@
         },
         "phone": "07244-92672",
         "email": "baumpflege-schmeller@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203766.png"
     },
     {
@@ -3568,7 +3568,7 @@
         },
         "phone": "02985-8954",
         "email": "fachplan@aol.com",
-        "website": "",
+        "website": null,
         "image": "images/1203767.png"
     },
     {
@@ -3587,7 +3587,7 @@
         },
         "phone": "030-35504420",
         "email": "baumprofis-liedtke@t-online.de",
-        "website": "",
+        "website": null,
         "image": "images/1203768.png"
     },
     {
@@ -3606,7 +3606,7 @@
         },
         "phone": "",
         "email": "gartendienst.schmidt@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203769.png"
     },
     {
@@ -3625,7 +3625,7 @@
         },
         "phone": "04409-920316",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203770.png"
     },
     {
@@ -3644,7 +3644,7 @@
         },
         "phone": "08807-948880",
         "email": "Henks@gmx.net",
-        "website": "",
+        "website": null,
         "image": "images/1203771.png"
     },
     {
@@ -3663,7 +3663,7 @@
         },
         "phone": "040-42918589",
         "email": "info@baumdienstnortis.de",
-        "website": "",
+        "website": null,
         "image": "images/1203772.png"
     },
     {
@@ -3682,7 +3682,7 @@
         },
         "phone": "033701-22970",
         "email": "info@lvga-bb.de",
-        "website": "",
+        "website": null,
         "image": "images/1203773.png"
     },
     {
@@ -3701,7 +3701,7 @@
         },
         "phone": "04871-5588521",
         "email": "info@tree-concept.de",
-        "website": "",
+        "website": null,
         "image": "images/1203774.png"
     },
     {
@@ -3720,7 +3720,7 @@
         },
         "phone": "",
         "email": "kat_schu@hotmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203775.png"
     },
     {
@@ -3739,7 +3739,7 @@
         },
         "phone": "0171/6759014",
         "email": "kontakt@msbaumpflege.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3758,7 +3758,7 @@
         },
         "phone": "0421-48 40680",
         "email": "info@die-kletterer.com",
-        "website": "",
+        "website": null,
         "image": "images/1203777.png"
     },
     {
@@ -3777,7 +3777,7 @@
         },
         "phone": "017684463561",
         "email": "julianaschwarz03@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1203778.png"
     },
     {
@@ -3793,7 +3793,7 @@
         "coords": null,
         "phone": "0172-8254276",
         "email": "baumpflegeludwigschwarz@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3809,7 +3809,7 @@
         "coords": null,
         "phone": "0172-5645737",
         "email": "kontakt@zweigwerk-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3825,7 +3825,7 @@
         "coords": null,
         "phone": "0152-29643806",
         "email": "hello@treelicious.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3844,7 +3844,7 @@
         },
         "phone": "",
         "email": "bauminfo@arboristik-im-norden.de",
-        "website": "",
+        "website": null,
         "image": "images/1203782.png"
     },
     {
@@ -3863,7 +3863,7 @@
         },
         "phone": "01789714575",
         "email": "info@seidler-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203783.png"
     },
     {
@@ -3882,7 +3882,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203784.png"
     },
     {
@@ -3901,7 +3901,7 @@
         },
         "phone": "",
         "email": "kontakt@silvanus-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/1203785.png"
     },
     {
@@ -3917,7 +3917,7 @@
         "coords": null,
         "phone": "08152-3189",
         "email": "info@dahoizknecht.de",
-        "website": "",
+        "website": null,
         "image": "images/1203786.png"
     },
     {
@@ -3936,7 +3936,7 @@
         },
         "phone": "",
         "email": "max@rope-solutions.de",
-        "website": "",
+        "website": null,
         "image": "images/1203787.png"
     },
     {
@@ -3952,7 +3952,7 @@
         "coords": null,
         "phone": "",
         "email": "juan.sohn@googlemail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -3971,7 +3971,7 @@
         },
         "phone": "05582-999911",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203789.png"
     },
     {
@@ -3990,7 +3990,7 @@
         },
         "phone": "0163 278 5124",
         "email": "spechtbau@web.de",
-        "website": "",
+        "website": null,
         "image": "images/1203790.png"
     },
     {
@@ -4009,7 +4009,7 @@
         },
         "phone": "03542 8878500",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203791.png"
     },
     {
@@ -4028,7 +4028,7 @@
         },
         "phone": "",
         "email": "info@wupperbaumdienst.de",
-        "website": "",
+        "website": null,
         "image": "images/1203792.png"
     },
     {
@@ -4044,7 +4044,7 @@
         "coords": null,
         "phone": "0160-94525724",
         "email": "m.a.stoeckle@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4060,7 +4060,7 @@
         "coords": null,
         "phone": "0170-2133966",
         "email": "info@baumpflege-stohlmeyer.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4076,7 +4076,7 @@
         "coords": null,
         "phone": "",
         "email": "hildegard.stoeteler@stoeteler.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4092,7 +4092,7 @@
         "coords": null,
         "phone": "",
         "email": "beddes@baumkletterteam.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4108,7 +4108,7 @@
         "coords": null,
         "phone": "",
         "email": "info@garten-straten.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4124,7 +4124,7 @@
         "coords": null,
         "phone": "0170-8278243",
         "email": "info@kletter-paule.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4140,7 +4140,7 @@
         "coords": null,
         "phone": "0176-220083",
         "email": "ackymoto@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4159,7 +4159,7 @@
         },
         "phone": "07181-6059838",
         "email": "info@blattwald.de",
-        "website": "",
+        "website": null,
         "image": "images/1203800.png"
     },
     {
@@ -4175,7 +4175,7 @@
         "coords": null,
         "phone": "0151-46658420",
         "email": "sebastian85climb@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4194,7 +4194,7 @@
         },
         "phone": "089-904214560",
         "email": "info@baumspezialisten.de",
-        "website": "",
+        "website": null,
         "image": "images/1203802.png"
     },
     {
@@ -4210,7 +4210,7 @@
         "coords": null,
         "phone": "04121-21514",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203803.png"
     },
     {
@@ -4229,7 +4229,7 @@
         },
         "phone": "05482-9290400",
         "email": "info@gruener-zweig.de",
-        "website": "",
+        "website": null,
         "image": "images/1203804.png"
     },
     {
@@ -4243,12 +4243,12 @@
             "country": "Deutschland"
         },
         "coords": {
-            "lat": 50.0053273,
-            "lon": 8.2337237
+            "lat": 50.00458,
+            "lon": 8.2361955
         },
         "phone": "",
         "email": "zweigstelle-mainz@web.de",
-        "website": "",
+        "website": null,
         "image": "images/1203805.png"
     },
     {
@@ -4267,7 +4267,7 @@
         },
         "phone": "05454-180249",
         "email": "unger@eichhorn-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/1203806.png"
     },
     {
@@ -4286,7 +4286,7 @@
         },
         "phone": "030-6036018",
         "email": "info@bdu-gmbh.de",
-        "website": "",
+        "website": null,
         "image": "images/1203807.png"
     },
     {
@@ -4305,7 +4305,7 @@
         },
         "phone": "08161-9892554",
         "email": "info@baumexperten.de",
-        "website": "",
+        "website": null,
         "image": "images/1203808.png"
     },
     {
@@ -4324,7 +4324,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203809.png"
     },
     {
@@ -4340,7 +4340,7 @@
         "coords": null,
         "phone": "07826-9662525",
         "email": "info@baumpflege-volk.de",
-        "website": "",
+        "website": null,
         "image": "images/1203810.png"
     },
     {
@@ -4359,7 +4359,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-voss.de",
-        "website": "",
+        "website": null,
         "image": "images/1203811.png"
     },
     {
@@ -4375,7 +4375,7 @@
         "coords": null,
         "phone": "0172-5147869",
         "email": "info@baumfriese.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4391,7 +4391,7 @@
         "coords": null,
         "phone": "",
         "email": "bjoern-walter-nwh@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4407,7 +4407,7 @@
         "coords": null,
         "phone": "",
         "email": "Franckwargnier@aol.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4426,7 +4426,7 @@
         },
         "phone": "",
         "email": "info@fafa-baumpflege.eu",
-        "website": "",
+        "website": null,
         "image": "images/1203815.png"
     },
     {
@@ -4445,7 +4445,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203816.png"
     },
     {
@@ -4461,7 +4461,7 @@
         "coords": null,
         "phone": "",
         "email": "info@arborkollektiv.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4480,7 +4480,7 @@
         },
         "phone": "05257-935904",
         "email": "info@marco-weiss.de",
-        "website": "",
+        "website": null,
         "image": "images/1203818.png"
     },
     {
@@ -4499,7 +4499,7 @@
         },
         "phone": "0619-244244",
         "email": "baumpflege-wellner@web.de",
-        "website": "",
+        "website": null,
         "image": "images/1203819.png"
     },
     {
@@ -4518,7 +4518,7 @@
         },
         "phone": "09126-2952750",
         "email": "baumpflege-wunderbaum@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1203820.png"
     },
     {
@@ -4534,7 +4534,7 @@
         "coords": null,
         "phone": "",
         "email": "BAUMSTATIK.SAG@t-online.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4553,7 +4553,7 @@
         },
         "phone": "08442-958547",
         "email": "alan@baumpflege-whittaker.de",
-        "website": "",
+        "website": null,
         "image": "images/1203822.png"
     },
     {
@@ -4572,7 +4572,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203823.png"
     },
     {
@@ -4588,7 +4588,7 @@
         "coords": null,
         "phone": "0176-72674339",
         "email": "lukas.winterer@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4604,7 +4604,7 @@
         "coords": null,
         "phone": "",
         "email": "baumpflege-wittmann@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4623,7 +4623,7 @@
         },
         "phone": "",
         "email": "julius.wojda@web.de",
-        "website": "",
+        "website": null,
         "image": "images/1203826.png"
     },
     {
@@ -4642,7 +4642,7 @@
         },
         "phone": "",
         "email": "info@arbocare.de",
-        "website": "",
+        "website": null,
         "image": "images/1203827.png"
     },
     {
@@ -4661,7 +4661,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1203828.png"
     },
     {
@@ -4680,7 +4680,7 @@
         },
         "phone": "06232-6952483",
         "email": "ziegler@baum-und-mensch.com",
-        "website": "",
+        "website": null,
         "image": "images/1203829.png"
     },
     {
@@ -4699,7 +4699,7 @@
         },
         "phone": "",
         "email": "baum-rode@posteo.de",
-        "website": "",
+        "website": null,
         "image": "images/1203832.png"
     },
     {
@@ -4718,7 +4718,7 @@
         },
         "phone": "",
         "email": "ute.einhart@rinntech.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4737,7 +4737,7 @@
         },
         "phone": "+491711490860",
         "email": "bettina@baumpflegeamsee.de",
-        "website": "",
+        "website": null,
         "image": "images/1305105.png"
     },
     {
@@ -4756,7 +4756,7 @@
         },
         "phone": "0178-5078000",
         "email": "robinmayr@yahoo.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4775,7 +4775,7 @@
         },
         "phone": "015223632822",
         "email": "constantinfunck@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1312458.png"
     },
     {
@@ -4794,7 +4794,7 @@
         },
         "phone": "0157-70301275",
         "email": "janosch.heimbucher@gmx.net",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4813,7 +4813,7 @@
         },
         "phone": "0170-3858209",
         "email": "info@diebaumhirten.de",
-        "website": "",
+        "website": null,
         "image": "images/1318013.png"
     },
     {
@@ -4832,7 +4832,7 @@
         },
         "phone": "015151913083",
         "email": "sebastianaugenstein@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4851,7 +4851,7 @@
         },
         "phone": "0176-212456703",
         "email": "info@baumpflege-kleiber.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4870,7 +4870,7 @@
         },
         "phone": "0176-84534434",
         "email": "lisa.schuchhardt@hotmail.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4889,7 +4889,7 @@
         },
         "phone": "0176-43534370",
         "email": "stevepucker@googlemail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4908,7 +4908,7 @@
         },
         "phone": "015778323752",
         "email": "anika.hartramph@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4927,7 +4927,7 @@
         },
         "phone": "0176-23570860",
         "email": "mail@viktorvonmagnus.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4946,7 +4946,7 @@
         },
         "phone": "0151-50638089",
         "email": "hanna.purps.baumpflege@posteo.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4965,7 +4965,7 @@
         },
         "phone": "016094928388",
         "email": "stumpf.weil@hotmail.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -4984,7 +4984,7 @@
         },
         "phone": "0176-34503026",
         "email": "info@buechner-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5003,7 +5003,7 @@
         },
         "phone": "0176-34503823",
         "email": "mail@kyelljensen.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5022,7 +5022,7 @@
         },
         "phone": "08294 688375861",
         "email": "treevertarborist@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5041,7 +5041,7 @@
         },
         "phone": "0172-9511443",
         "email": "bart.panama@outlook.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5060,7 +5060,7 @@
         },
         "phone": "+49-173-6891493",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1350222.png"
     },
     {
@@ -5079,7 +5079,7 @@
         },
         "phone": "",
         "email": "einhartute@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5098,7 +5098,7 @@
         },
         "phone": "+49-178-1760511",
         "email": "jarrod_duus@icloud.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5117,7 +5117,7 @@
         },
         "phone": "+49-1759759639",
         "email": "kilpatrickbaumpflege@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/1360792.png"
     },
     {
@@ -5136,7 +5136,7 @@
         },
         "phone": "+49-1773255471",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1363932.png"
     },
     {
@@ -5155,7 +5155,7 @@
         },
         "phone": "+49-152-22728268",
         "email": "kontakt@einfach-seil.de",
-        "website": "",
+        "website": null,
         "image": "images/1364137.png"
     },
     {
@@ -5174,7 +5174,7 @@
         },
         "phone": "+49-15207387062",
         "email": "franziska_naumann92@outlook.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5193,7 +5193,7 @@
         },
         "phone": "+49-160-7640007",
         "email": "hornbogenbaumpflege@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5212,7 +5212,7 @@
         },
         "phone": "+49-01784788494",
         "email": "larix-baumpflege@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5231,7 +5231,7 @@
         },
         "phone": "",
         "email": "12356",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5250,7 +5250,7 @@
         },
         "phone": "+4915117830218",
         "email": "info@diebaumkletterin.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5269,7 +5269,7 @@
         },
         "phone": "+49-1759931364",
         "email": "baumpflegetg@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1476985.png"
     },
     {
@@ -5288,7 +5288,7 @@
         },
         "phone": "+41625207600",
         "email": "info@arboexpert.ch",
-        "website": "",
+        "website": null,
         "image": "images/1502695.png"
     },
     {
@@ -5307,7 +5307,7 @@
         },
         "phone": "00491738968117",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1517920.png"
     },
     {
@@ -5326,7 +5326,7 @@
         },
         "phone": "+491799501666",
         "email": "johannesneuhaus@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/1589262.png"
     },
     {
@@ -5345,7 +5345,7 @@
         },
         "phone": "0178-4606509",
         "email": "andreazerwas@outlook.es",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5364,7 +5364,7 @@
         },
         "phone": "024089579679",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1749232.png"
     },
     {
@@ -5383,7 +5383,7 @@
         },
         "phone": "+49-176-20697602",
         "email": "timo.blens95@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5402,7 +5402,7 @@
         },
         "phone": "+49-16093367254",
         "email": "andreas.rusch@wildlifepicture.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5421,7 +5421,7 @@
         },
         "phone": "01709904235",
         "email": "otto-baumdienst@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5440,7 +5440,7 @@
         },
         "phone": "017622895791",
         "email": "info@baumklettern.com",
-        "website": "",
+        "website": null,
         "image": "images/1829411.png"
     },
     {
@@ -5459,7 +5459,7 @@
         },
         "phone": "017655540104",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1848555.png"
     },
     {
@@ -5478,7 +5478,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1881798.png"
     },
     {
@@ -5497,7 +5497,7 @@
         },
         "phone": "01776324459",
         "email": "info@kletterkonzepte.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5516,7 +5516,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1881825.png"
     },
     {
@@ -5535,7 +5535,7 @@
         },
         "phone": "3282856440",
         "email": "luca.brighenti.b@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5554,7 +5554,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910755.png"
     },
     {
@@ -5573,7 +5573,7 @@
         },
         "phone": "0176-48269994",
         "email": "info@baumpartner-marburg.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5592,7 +5592,7 @@
         },
         "phone": "3468231960",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910849.png"
     },
     {
@@ -5611,7 +5611,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910870.png"
     },
     {
@@ -5630,7 +5630,7 @@
         },
         "phone": "+49-172-7129062",
         "email": "flo130309@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5649,7 +5649,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910899.png"
     },
     {
@@ -5668,7 +5668,7 @@
         },
         "phone": "",
         "email": "info@atp-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/1910908.png"
     },
     {
@@ -5687,7 +5687,7 @@
         },
         "phone": "",
         "email": "info@atp-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/1910910.png"
     },
     {
@@ -5706,7 +5706,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910919.png"
     },
     {
@@ -5725,7 +5725,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910920.png"
     },
     {
@@ -5744,7 +5744,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910924.png"
     },
     {
@@ -5760,7 +5760,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1910926.png"
     },
     {
@@ -5779,7 +5779,7 @@
         },
         "phone": "",
         "email": "info@die-kletterer.com",
-        "website": "",
+        "website": null,
         "image": "images/1911043.png"
     },
     {
@@ -5798,7 +5798,7 @@
         },
         "phone": "",
         "email": "info@die-kletterer.com",
-        "website": "",
+        "website": null,
         "image": "images/1911045.png"
     },
     {
@@ -5817,7 +5817,7 @@
         },
         "phone": "",
         "email": "info@die-kletterer.com",
-        "website": "",
+        "website": null,
         "image": "images/1911046.png"
     },
     {
@@ -5833,7 +5833,7 @@
         "coords": null,
         "phone": "03202 0034619981310",
         "email": "austritt_2023@keine-mail.local",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5852,7 +5852,7 @@
         },
         "phone": "",
         "email": "Fjar_86@hotmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -5871,7 +5871,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1911499.png"
     },
     {
@@ -5890,7 +5890,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1911530.png"
     },
     {
@@ -5909,7 +5909,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912030.png"
     },
     {
@@ -5928,7 +5928,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912032.png"
     },
     {
@@ -5947,7 +5947,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912077.png"
     },
     {
@@ -5963,7 +5963,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912332.png"
     },
     {
@@ -5979,7 +5979,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912335.png"
     },
     {
@@ -5995,7 +5995,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912336.png"
     },
     {
@@ -6011,7 +6011,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912337.png"
     },
     {
@@ -6027,7 +6027,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1912339.png"
     },
     {
@@ -6043,7 +6043,7 @@
         "coords": null,
         "phone": "",
         "email": "ron@galabauron.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6062,7 +6062,7 @@
         },
         "phone": "+393333404075",
         "email": "ettorelonghi5@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6081,7 +6081,7 @@
         },
         "phone": "017647791146",
         "email": "info@baumtechnik-weber.de",
-        "website": "",
+        "website": null,
         "image": "images/1914372.png"
     },
     {
@@ -6097,7 +6097,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1914373.png"
     },
     {
@@ -6111,12 +6111,12 @@
             "country": "Frankreich"
         },
         "coords": {
-            "lat": 43.6082696,
-            "lon": 3.8840486
+            "lat": 43.6082769,
+            "lon": 3.8840546
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1914544.png"
     },
     {
@@ -6135,7 +6135,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1914561.png"
     },
     {
@@ -6154,7 +6154,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1914595.png"
     },
     {
@@ -6173,7 +6173,7 @@
         },
         "phone": "0157-78843478",
         "email": "lucas.meijer@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6192,7 +6192,7 @@
         },
         "phone": "",
         "email": "post@grounds-buildings.de",
-        "website": "",
+        "website": null,
         "image": "images/1918207.png"
     },
     {
@@ -6208,7 +6208,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1923833.png"
     },
     {
@@ -6224,7 +6224,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1923834.png"
     },
     {
@@ -6243,7 +6243,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1923844.png"
     },
     {
@@ -6259,7 +6259,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1930450.png"
     },
     {
@@ -6278,7 +6278,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1930470.png"
     },
     {
@@ -6297,7 +6297,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1977213.png"
     },
     {
@@ -6316,7 +6316,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/1977257.png"
     },
     {
@@ -6335,7 +6335,7 @@
         },
         "phone": "+4917664334842",
         "email": "marius.james@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6351,7 +6351,7 @@
         "coords": null,
         "phone": "",
         "email": "u.trinkner@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6367,7 +6367,7 @@
         "coords": null,
         "phone": "",
         "email": "Hannes.janasik@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6383,7 +6383,7 @@
         "coords": null,
         "phone": "",
         "email": "info@dbaumpfleger.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6402,7 +6402,7 @@
         },
         "phone": "+49-1751102556",
         "email": "becker.doro@t-online.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6418,7 +6418,7 @@
         "coords": null,
         "phone": "",
         "email": "michi.janke@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6434,7 +6434,7 @@
         "coords": null,
         "phone": "",
         "email": "nino.forstwart@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6453,7 +6453,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2117794.png"
     },
     {
@@ -6469,7 +6469,7 @@
         "coords": null,
         "phone": "",
         "email": "george.rueckner@hotmail.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6485,7 +6485,7 @@
         "coords": null,
         "phone": "",
         "email": "daniel-grunwald@hotmail.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6504,7 +6504,7 @@
         },
         "phone": "",
         "email": "info@baumkultur.de",
-        "website": "",
+        "website": null,
         "image": "images/2117820.png"
     },
     {
@@ -6523,7 +6523,7 @@
         },
         "phone": "",
         "email": "info@baumkultur.de",
-        "website": "",
+        "website": null,
         "image": "images/2117821.png"
     },
     {
@@ -6539,7 +6539,7 @@
         "coords": null,
         "phone": "",
         "email": "info@schmid-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6558,7 +6558,7 @@
         },
         "phone": "0152-22830194",
         "email": "maxi-runge@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6574,7 +6574,7 @@
         "coords": null,
         "phone": "",
         "email": "mms7575@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6593,7 +6593,7 @@
         },
         "phone": "+4915206156782",
         "email": "nadja.fesser@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6609,7 +6609,7 @@
         "coords": null,
         "phone": "",
         "email": "info@baumwart-regensburg.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6625,7 +6625,7 @@
         "coords": null,
         "phone": "",
         "email": "gavin@roots-stuttgart.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6641,7 +6641,7 @@
         "coords": null,
         "phone": "",
         "email": "19nick.froehlich99@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6657,7 +6657,7 @@
         "coords": null,
         "phone": "",
         "email": "info@baumpflege-heimerdinger.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6673,7 +6673,7 @@
         "coords": null,
         "phone": "",
         "email": "info@baumpflege-freund.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6689,7 +6689,7 @@
         "coords": null,
         "phone": "",
         "email": "muellerfelix@posteo.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6708,7 +6708,7 @@
         },
         "phone": "+49-1735228875",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2160124.png"
     },
     {
@@ -6727,7 +6727,7 @@
         },
         "phone": "",
         "email": "info@blumimbaum.de",
-        "website": "",
+        "website": null,
         "image": "images/2308688.png"
     },
     {
@@ -6746,7 +6746,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2386811.png"
     },
     {
@@ -6765,7 +6765,7 @@
         },
         "phone": "+4994829386122",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2444140.png"
     },
     {
@@ -6784,7 +6784,7 @@
         },
         "phone": "+49 171 1509376",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2444156.png"
     },
     {
@@ -6800,7 +6800,7 @@
         "coords": null,
         "phone": "",
         "email": "oliver@arborealis.se",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6816,7 +6816,7 @@
         "coords": null,
         "phone": "",
         "email": "Mikkelpraem@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6835,7 +6835,7 @@
         },
         "phone": "",
         "email": "daniel.h-h@live.no",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6854,7 +6854,7 @@
         },
         "phone": "",
         "email": "arjuna.kendziersky@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6870,7 +6870,7 @@
         "coords": null,
         "phone": "",
         "email": "arborarohaboombeheer@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6889,7 +6889,7 @@
         },
         "phone": "+31 6 58857489",
         "email": "dnboomverzorging@outlook.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6908,7 +6908,7 @@
         },
         "phone": "",
         "email": "bkboomverzorging@outlook.com",
-        "website": "",
+        "website": null,
         "image": "images/2499282.png"
     },
     {
@@ -6927,7 +6927,7 @@
         },
         "phone": "0623135435",
         "email": "tecknitail@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6946,7 +6946,7 @@
         },
         "phone": "015155833914",
         "email": "kletterbaern@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6965,7 +6965,7 @@
         },
         "phone": "",
         "email": "m.a.dummler@outlook.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -6984,7 +6984,7 @@
         },
         "phone": "",
         "email": "info@atp-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/2515634.png"
     },
     {
@@ -7003,7 +7003,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2515640.png"
     },
     {
@@ -7022,7 +7022,7 @@
         },
         "phone": "",
         "email": "koning.christian@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7038,7 +7038,7 @@
         "coords": null,
         "phone": "+421917884717",
         "email": "info@stromyaz.sk",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7054,7 +7054,7 @@
         "coords": null,
         "phone": "+4917667491804",
         "email": "zak.hevness@hotmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7073,7 +7073,7 @@
         },
         "phone": "+420602183844",
         "email": "david.sedlak@atlas.cz",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7089,7 +7089,7 @@
         "coords": null,
         "phone": "+353851354321",
         "email": "sarahannquinlan94@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7108,7 +7108,7 @@
         },
         "phone": "0176-41608924",
         "email": "flo.hailmann@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7127,7 +7127,7 @@
         },
         "phone": "01622133990",
         "email": "service@baumpfleger-oertel.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7146,7 +7146,7 @@
         },
         "phone": "01794357188",
         "email": "ktufto@protonmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7165,7 +7165,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2551898.png"
     },
     {
@@ -7184,7 +7184,7 @@
         },
         "phone": "",
         "email": "info@die-kletterer.com",
-        "website": "",
+        "website": null,
         "image": "images/2564771.png"
     },
     {
@@ -7203,7 +7203,7 @@
         },
         "phone": "",
         "email": "info@die-kletterer.com",
-        "website": "",
+        "website": null,
         "image": "images/2564845.png"
     },
     {
@@ -7222,7 +7222,7 @@
         },
         "phone": "",
         "email": "rechnung@banks-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/2564872.png"
     },
     {
@@ -7241,7 +7241,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2593666.png"
     },
     {
@@ -7260,7 +7260,7 @@
         },
         "phone": "",
         "email": "info@atp-baum.de",
-        "website": "",
+        "website": null,
         "image": "images/2593677.png"
     },
     {
@@ -7279,7 +7279,7 @@
         },
         "phone": "07631-13057",
         "email": "info@baumkultur.de",
-        "website": "",
+        "website": null,
         "image": "images/2593702.png"
     },
     {
@@ -7298,7 +7298,7 @@
         },
         "phone": "06173-7820430",
         "email": "post@grounds-buildings.de",
-        "website": "",
+        "website": null,
         "image": "images/2595761.png"
     },
     {
@@ -7317,7 +7317,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/2737358.png"
     },
     {
@@ -7336,7 +7336,7 @@
         },
         "phone": "0049-15752901958",
         "email": "mfr.forst@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7355,7 +7355,7 @@
         },
         "phone": "00492151494781",
         "email": "c.poesken@gefafabritz.de",
-        "website": "",
+        "website": null,
         "image": "images/2831240.png"
     },
     {
@@ -7374,7 +7374,7 @@
         },
         "phone": "+49-17681661840",
         "email": "julius.koehler@posteo.de",
-        "website": "",
+        "website": null,
         "image": "images/2831260.png"
     },
     {
@@ -7393,7 +7393,7 @@
         },
         "phone": "01636918605",
         "email": "baumpflege@konradbauer.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7412,7 +7412,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3022235.png"
     },
     {
@@ -7431,7 +7431,7 @@
         },
         "phone": "",
         "email": "info@grube.de",
-        "website": "",
+        "website": null,
         "image": "images/3076675.png"
     },
     {
@@ -7450,7 +7450,7 @@
         },
         "phone": "",
         "email": "invoice.de@husqvarnagroup.com",
-        "website": "",
+        "website": null,
         "image": "images/3076717.png"
     },
     {
@@ -7469,7 +7469,7 @@
         },
         "phone": "",
         "email": "andreas.viechtbauer@teufelberger.com",
-        "website": "",
+        "website": null,
         "image": "images/3077670.png"
     },
     {
@@ -7488,7 +7488,7 @@
         },
         "phone": "",
         "email": "j.bilharz@freeworker.de",
-        "website": "",
+        "website": null,
         "image": "images/3077676.png"
     },
     {
@@ -7507,7 +7507,7 @@
         },
         "phone": "",
         "email": "i.dassdorf@edelrid.de",
-        "website": "",
+        "website": null,
         "image": "images/3077689.png"
     },
     {
@@ -7526,7 +7526,7 @@
         },
         "phone": "",
         "email": "doezkol@petzl.com",
-        "website": "",
+        "website": null,
         "image": "images/3077696.png"
     },
     {
@@ -7545,7 +7545,7 @@
         },
         "phone": "",
         "email": "boa@arboa.com",
-        "website": "",
+        "website": null,
         "image": "images/3077697.png"
     },
     {
@@ -7564,7 +7564,7 @@
         },
         "phone": "",
         "email": "R.Illenberger@scharr-fuels.de",
-        "website": "",
+        "website": null,
         "image": "images/3077701.png"
     },
     {
@@ -7583,7 +7583,7 @@
         },
         "phone": "",
         "email": "hg@mycourant.com",
-        "website": "",
+        "website": null,
         "image": "images/3077724.png"
     },
     {
@@ -7602,7 +7602,7 @@
         },
         "phone": "015735731227",
         "email": "info@baumpflege-model.de",
-        "website": "",
+        "website": null,
         "image": "images/3086201.png"
     },
     {
@@ -7618,7 +7618,7 @@
         "coords": null,
         "phone": "",
         "email": "webmaster@isa-arbor.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7637,7 +7637,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3261997.png"
     },
     {
@@ -7656,7 +7656,7 @@
         },
         "phone": "+49-171-2629824",
         "email": "Baumfroschmaier@t-online.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7675,7 +7675,7 @@
         },
         "phone": "",
         "email": "philipp.robeck@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7691,7 +7691,7 @@
         "coords": null,
         "phone": "",
         "email": "phill@gmx.li",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7710,7 +7710,7 @@
         },
         "phone": "",
         "email": "daandevriesu2@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7726,7 +7726,7 @@
         "coords": null,
         "phone": "",
         "email": "h.p.steltenpool@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7745,7 +7745,7 @@
         },
         "phone": "0 62 22 / 94 80 700",
         "email": "info@derbaumbraun.de",
-        "website": "",
+        "website": null,
         "image": "images/3332644.png"
     },
     {
@@ -7764,7 +7764,7 @@
         },
         "phone": "",
         "email": "i.streich@edelrid.de",
-        "website": "",
+        "website": null,
         "image": "images/3347908.png"
     },
     {
@@ -7783,7 +7783,7 @@
         },
         "phone": "015110171047",
         "email": "info@baum-specht.de",
-        "website": "",
+        "website": null,
         "image": "images/3352585.png"
     },
     {
@@ -7802,7 +7802,7 @@
         },
         "phone": "015776139320",
         "email": "Baumkonzept-Leiber@web.de",
-        "website": "",
+        "website": null,
         "image": "images/3357594.png"
     },
     {
@@ -7821,7 +7821,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3362812.png"
     },
     {
@@ -7840,7 +7840,7 @@
         },
         "phone": "0172-5894864",
         "email": "info@baumkraxler.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7856,7 +7856,7 @@
         "coords": null,
         "phone": "0031623844054",
         "email": "h.boomonderhoud@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7872,7 +7872,7 @@
         "coords": null,
         "phone": "0031646752603",
         "email": "ggesink@hotmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7891,7 +7891,7 @@
         },
         "phone": "635047265",
         "email": "estebanferi85@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7910,7 +7910,7 @@
         },
         "phone": "646617856",
         "email": "loli200069@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7929,7 +7929,7 @@
         },
         "phone": "0177-6173880",
         "email": "gabrielgall@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7948,7 +7948,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3384920.png"
     },
     {
@@ -7967,7 +7967,7 @@
         },
         "phone": "",
         "email": "jaydenhaycraft@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -7986,7 +7986,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3390594.png"
     },
     {
@@ -8005,7 +8005,7 @@
         },
         "phone": "0157-81586226",
         "email": "baummarie@posteo.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8024,7 +8024,7 @@
         },
         "phone": "0176-63465619",
         "email": "Lisa.loewe@posteo.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8043,7 +8043,7 @@
         },
         "phone": "",
         "email": "Anders.vinther93@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8059,7 +8059,7 @@
         "coords": null,
         "phone": "",
         "email": "klausfreya01@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8075,7 +8075,7 @@
         "coords": null,
         "phone": "04151-898633",
         "email": "info@hagen-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/3419448.png"
     },
     {
@@ -8091,7 +8091,7 @@
         "coords": null,
         "phone": "04151-898633",
         "email": "info@hagen-baumpflege.de",
-        "website": "",
+        "website": null,
         "image": "images/3419463.png"
     },
     {
@@ -8107,7 +8107,7 @@
         "coords": null,
         "phone": "01603235777",
         "email": "Tom.Treiber.SKT@web.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8126,7 +8126,7 @@
         },
         "phone": "0176-30792999",
         "email": "baumpflege-vogelsberg@t-online.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8145,7 +8145,7 @@
         },
         "phone": "+33-770227823",
         "email": "maitrise.elagage@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8164,7 +8164,7 @@
         },
         "phone": "",
         "email": "info@baumkultur.de",
-        "website": "",
+        "website": null,
         "image": "images/3420052.png"
     },
     {
@@ -8183,7 +8183,7 @@
         },
         "phone": "",
         "email": "info@baumkultur.de",
-        "website": "",
+        "website": null,
         "image": "images/3420059.png"
     },
     {
@@ -8202,7 +8202,7 @@
         },
         "phone": "",
         "email": "info@derbaumbraun.de",
-        "website": "",
+        "website": null,
         "image": "images/3420072.png"
     },
     {
@@ -8221,7 +8221,7 @@
         },
         "phone": "+33 630811726",
         "email": "remy6471@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8240,7 +8240,7 @@
         },
         "phone": "001-256-485-8750",
         "email": "harperstreeservicegadsden@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8259,7 +8259,7 @@
         },
         "phone": "",
         "email": "arb.aure.elagage@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8275,7 +8275,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3422294.png"
     },
     {
@@ -8294,7 +8294,7 @@
         },
         "phone": "",
         "email": "dommangeaujonathan@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8313,7 +8313,7 @@
         },
         "phone": "0617103157",
         "email": "haveline9@gmail.com",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8329,7 +8329,7 @@
         "coords": null,
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3425043.png"
     },
     {
@@ -8348,7 +8348,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3430635.png"
     },
     {
@@ -8367,7 +8367,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3443219.png"
     },
     {
@@ -8386,7 +8386,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3486296.png"
     },
     {
@@ -8405,7 +8405,7 @@
         },
         "phone": "015253452847",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3538369.png"
     },
     {
@@ -8424,7 +8424,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/3576237.png"
     },
     {
@@ -8443,7 +8443,7 @@
         },
         "phone": "",
         "email": "christin.d.frank@gmail.com",
-        "website": "",
+        "website": null,
         "image": "images/3599001.png"
     },
     {
@@ -8462,7 +8462,7 @@
         },
         "phone": "0172 2063480",
         "email": "info@ginkgo-bremerhaven.de",
-        "website": "",
+        "website": null,
         "image": "images/4092567.png"
     },
     {
@@ -8481,7 +8481,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/4377999.png"
     },
     {
@@ -8500,7 +8500,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/4384974.png"
     },
     {
@@ -8519,7 +8519,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5244345.png"
     },
     {
@@ -8538,7 +8538,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5388660.png"
     },
     {
@@ -8557,7 +8557,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5433606.png"
     },
     {
@@ -8576,7 +8576,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5439990.png"
     },
     {
@@ -8595,7 +8595,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5565579.png"
     },
     {
@@ -8611,7 +8611,7 @@
         "coords": null,
         "phone": "",
         "email": "Testperson@testperson.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8630,7 +8630,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5698275.png"
     },
     {
@@ -8649,7 +8649,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5699673.png"
     },
     {
@@ -8665,7 +8665,7 @@
         "coords": null,
         "phone": "",
         "email": "service@treelax-partner.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8684,7 +8684,7 @@
         },
         "phone": "+49-6071-2040",
         "email": "andreas.vogelsang@stihl.de",
-        "website": "",
+        "website": null,
         "image": "images/5728620.png"
     },
     {
@@ -8703,7 +8703,7 @@
         },
         "phone": "01726941188",
         "email": "leo.gabriel.neil@gmx.de",
-        "website": "",
+        "website": null,
         "image": null
     },
     {
@@ -8722,7 +8722,7 @@
         },
         "phone": "+491786710408",
         "email": "derzweigmeister@gmx.de",
-        "website": "",
+        "website": null,
         "image": "images/5737671.png"
     },
     {
@@ -8741,7 +8741,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "",
+        "website": null,
         "image": "images/5739276.png"
     }
 ]
