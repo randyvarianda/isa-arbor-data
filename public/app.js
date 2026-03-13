@@ -16,7 +16,9 @@ document.addEventListener("DOMContentLoaded", () => {
     .then((response) => response.json())
     .then((data) => {
       allMembers = data;
-      renderMembers(allMembers);
+      currentFilteredMembers = data;
+      renderPagination();
+      renderMembers();
       renderMap(allMembers);
     })
     .catch((err) => console.error("Error loading data:", err));
