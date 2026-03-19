@@ -34,6 +34,10 @@ body {
   flex-wrap: wrap;
 }
 
+.type-inline {
+  display: none;
+}
+
 .tab-btn {
   padding: 10px 20px;
   border: none;
@@ -125,6 +129,7 @@ body {
 .members-table {
   width: 100%;
   overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
   background: white;
   border-radius: 8px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
@@ -134,6 +139,7 @@ body {
   width: 100%;
   border-collapse: collapse;
   table-layout: fixed;
+  min-width: 760px;
 }
 
 .members-table th,
@@ -290,6 +296,71 @@ body {
 .contact-svg {
   width: 16px;
   height: 16px;
+}
+
+@media (max-width: 640px) {
+  .filters-container {
+    gap: 10px;
+    margin-bottom: 12px;
+  }
+
+  #searchInput {
+    font-size: 14px;
+    padding: 10px 12px;
+  }
+
+  .tab-btn {
+    padding: 9px 14px;
+    font-size: 13px;
+  }
+
+  #map {
+    height: 280px;
+    margin-bottom: 16px;
+    border-radius: 0;
+  }
+
+  .members-table {
+    border-radius: 0;
+  }
+
+  .members-table th,
+  .members-table td {
+    padding: 12px 12px;
+    font-size: 13px;
+  }
+
+  .members-table table {
+    min-width: 520px;
+  }
+
+  .members-table th:nth-child(2),
+  .members-table td:nth-child(2) {
+    display: none;
+  }
+
+  .type-inline {
+    display: inline-block;
+    margin-top: 6px;
+  }
+
+  .name-cell {
+    min-width: 260px;
+  }
+
+  .contact-cell {
+    width: 140px;
+  }
+
+  .contact-icons {
+    gap: 6px;
+  }
+
+  .contact-icon {
+    width: 30px;
+    height: 30px;
+    border-radius: 10px;
+  }
 }
 .member-details p {
   margin: 5px 0;

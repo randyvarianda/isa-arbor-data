@@ -193,6 +193,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 <div class="logo-wrap">${logoHtml}</div>
                 <div class="name-meta">
                   <div class="name-row">${nameHtml}</div>
+                  <div class="type-inline">${typePill}</div>
                 </div>
               </div>
             </td>
