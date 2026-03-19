@@ -34,10 +34,6 @@ body {
   flex-wrap: wrap;
 }
 
-.type-inline {
-  display: none;
-}
-
 .tab-btn {
   padding: 10px 20px;
   border: none;
@@ -136,10 +132,10 @@ body {
 }
 
 .members-table table {
-  width: 100%;
+  width: max-content;
   border-collapse: collapse;
-  table-layout: fixed;
-  min-width: 760px;
+  table-layout: auto;
+  min-width: 900px;
 }
 
 .members-table th,
@@ -149,6 +145,7 @@ body {
   text-align: left;
   vertical-align: middle;
   font-size: 14px;
+  white-space: nowrap;
 }
 
 .members-table th {
@@ -299,25 +296,8 @@ body {
 }
 
 @media (max-width: 640px) {
-  .filters-container {
-    gap: 10px;
-    margin-bottom: 12px;
-  }
-
-  #searchInput {
-    font-size: 14px;
-    padding: 10px 12px;
-  }
-
-  .tab-btn {
-    padding: 9px 14px;
-    font-size: 13px;
-  }
-
   #map {
     height: 280px;
-    margin-bottom: 16px;
-    border-radius: 0;
   }
 
   .members-table {
@@ -331,35 +311,7 @@ body {
   }
 
   .members-table table {
-    min-width: 520px;
-  }
-
-  .members-table th:nth-child(2),
-  .members-table td:nth-child(2) {
-    display: none;
-  }
-
-  .type-inline {
-    display: inline-block;
-    margin-top: 6px;
-  }
-
-  .name-cell {
-    min-width: 260px;
-  }
-
-  .contact-cell {
-    width: 140px;
-  }
-
-  .contact-icons {
-    gap: 6px;
-  }
-
-  .contact-icon {
-    width: 30px;
-    height: 30px;
-    border-radius: 10px;
+    min-width: 760px;
   }
 }
 .member-details p {
