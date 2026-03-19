@@ -15,7 +15,7 @@
         },
         "phone": "02244-3233",
         "email": "info@arbor-care.eu",
-        "website": "http://www.arborcare.eu",
+        "website": null,
         "image": "images/1203571.png"
     },
     {
@@ -34,7 +34,7 @@
         },
         "phone": "07544-9873138",
         "email": "info@benjaminallgaier.de",
-        "website": "www.benjaminallgaier.de",
+        "website": null,
         "image": "images/1203572.png"
     },
     {
@@ -91,7 +91,7 @@
         },
         "phone": "",
         "email": "info@mytree.de",
-        "website": "http://www.mytree.de",
+        "website": null,
         "image": "images/1203575.png"
     },
     {
@@ -110,7 +110,7 @@
         },
         "phone": "030-45042081",
         "email": "balder@bht-berlin.de",
-        "website": "http://www.tfh-berlin.de",
+        "website": null,
         "image": "images/1203576.png"
     },
     {
@@ -129,7 +129,7 @@
         },
         "phone": "0511-10570457",
         "email": "info@baum-barte.de",
-        "website": "www.baum-barte.de",
+        "website": null,
         "image": "images/1203577.png"
     },
     {
@@ -137,31 +137,18 @@
         "name": "Markus Bauknecht",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Unterstozen 1",
+            "zip": "88279",
+            "city": "Amtzell",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 47.7154577,
+            "lon": 9.7611144
+        },
         "phone": "0177-5789781",
         "email": "kontakt@zweigstelle-baumpflege.de",
-        "website": "http://www.zweigstelle-baumpflege.de",
-        "image": null
-    },
-    {
-        "id": 1203579,
-        "name": "Daniel Baur",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "0176-23983892",
-        "email": "daniel@baumpflegetreeo.de",
-        "website": "www.baumpflegetreeo.de",
+        "website": null,
         "image": null
     },
     {
@@ -180,7 +167,7 @@
         },
         "phone": "08161-8873588",
         "email": "info@bauroth.de",
-        "website": "http://www.bauroth.de",
+        "website": null,
         "image": "images/1203580.png"
     },
     {
@@ -196,7 +183,7 @@
         "coords": null,
         "phone": "06766-961673",
         "email": "info@arboristik-florentin.de",
-        "website": "www.arboristik-florentin.de",
+        "website": null,
         "image": "images/1203581.png"
     },
     {
@@ -215,27 +202,8 @@
         },
         "phone": "",
         "email": "becker@baumgerecht.de",
-        "website": "www.baumgerecht.de",
+        "website": null,
         "image": "images/1203582.png"
-    },
-    {
-        "id": 1203583,
-        "name": "BENK GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Weseler Str.52",
-            "zip": "45478",
-            "city": "M\u00fclheim a. d. Ruhr",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 51.4336931,
-            "lon": 6.8411388
-        },
-        "phone": "0208-7404000",
-        "email": "info@benk-baum.de",
-        "website": "http://www.benk-gmbh.de",
-        "image": "images/1203583.png"
     },
     {
         "id": 1203584,
@@ -253,7 +221,7 @@
         },
         "phone": "",
         "email": "info@berlanda.de",
-        "website": "www.berlanda.de",
+        "website": null,
         "image": "images/1203584.png"
     },
     {
@@ -261,12 +229,15 @@
         "name": "Raphael Bernhardt",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Oflingser Weg 17",
+            "zip": "88239",
+            "city": "Wangen im Allg\u00e4u",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 47.688349,
+            "lon": 9.8111703
+        },
         "phone": "0151-28885660",
         "email": "buero@baumsteiger-allgaeu.de",
         "website": null,
@@ -277,12 +248,15 @@
         "name": "Hartmut J. Beyer",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Halberst\u00e4tte Chaussee 34",
+            "zip": "39116",
+            "city": "Magdeburg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.0915497,
+            "lon": 11.567171
+        },
         "phone": "0170-2955878",
         "email": "austritt_1420@keine-mail.local",
         "website": null,
@@ -304,7 +278,7 @@
         },
         "phone": "08105-272727",
         "email": "info@freeworker.de",
-        "website": "http://www.freeworker.de",
+        "website": null,
         "image": "images/1203587.png"
     },
     {
@@ -323,7 +297,7 @@
         },
         "phone": "02645-9999000",
         "email": "",
-        "website": "http://www.baumdienst-siebengebirge.de",
+        "website": null,
         "image": "images/1203588.png"
     },
     {
@@ -342,7 +316,7 @@
         },
         "phone": "",
         "email": "mail@bork-baum.de",
-        "website": "www.bork-baum.de",
+        "website": null,
         "image": "images/1203589.png"
     },
     {
@@ -361,7 +335,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-boesemann.de",
-        "website": "http://www.baumpflege-boesemann.de",
+        "website": null,
         "image": "images/1203590.png"
     },
     {
@@ -388,12 +362,15 @@
         "name": "Peter Boyle",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": "Germany"
+            "street": "Lauensteinstra\u00dfe 10 b",
+            "zip": "22307",
+            "city": "Hamburg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 53.5989893,
+            "lon": 10.0448058
+        },
         "phone": "0159-05084126",
         "email": "prsboyle@hotmail.com",
         "website": null,
@@ -434,7 +411,7 @@
         },
         "phone": "06224-1472528",
         "email": "info@derbaumbraun.de",
-        "website": "http://www.derbaumbraun.de",
+        "website": null,
         "image": "images/1203594.png"
     },
     {
@@ -453,7 +430,7 @@
         },
         "phone": "06131-81670",
         "email": "o.braun@bgl-braun.de",
-        "website": "http://www.bgl-braun.de",
+        "website": null,
         "image": "images/1203595.png"
     },
     {
@@ -461,15 +438,18 @@
         "name": "Markus Breithaupt",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Unterer Hammer",
+            "zip": "64720",
+            "city": "Michelstadt",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 49.6855322,
+            "lon": 9.0125537
+        },
         "phone": "0171-2143318",
         "email": "Markus@kletterspezialisten.de",
-        "website": "www.kletterspezialisten.de",
+        "website": null,
         "image": null
     },
     {
@@ -488,7 +468,7 @@
         },
         "phone": "06241-975205",
         "email": "",
-        "website": "http://www.baumpflege-bressler.de",
+        "website": null,
         "image": "images/1203597.png"
     },
     {
@@ -507,7 +487,7 @@
         },
         "phone": "07221-60406",
         "email": "",
-        "website": "http://www.baumpflegeteam-bretzinger.de",
+        "website": null,
         "image": "images/1203598.png"
     },
     {
@@ -564,7 +544,7 @@
         },
         "phone": "08171-29190",
         "email": "bruns@baumspezialisten.de",
-        "website": "http://www.baumspezialisten.de",
+        "website": null,
         "image": "images/1203601.png"
     },
     {
@@ -583,7 +563,7 @@
         },
         "phone": "04331-42450",
         "email": "Info@Baumpflege-Buenstorf.de",
-        "website": "www.baumpflege-Buenstorf.de",
+        "website": null,
         "image": "images/1203602.png"
     },
     {
@@ -602,7 +582,7 @@
         },
         "phone": "07022-36060",
         "email": "",
-        "website": "http://www.baum-und-garten.de",
+        "website": null,
         "image": "images/1203603.png"
     },
     {
@@ -610,12 +590,15 @@
         "name": "Stephan Burock",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "H\u00fctten\u00e4ckerweg 6",
+            "zip": "74081",
+            "city": "Heilbronn",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 49.1128051,
+            "lon": 9.1752045
+        },
         "phone": "",
         "email": "baumpflegeevergreen@gmx.de",
         "website": null,
@@ -637,7 +620,7 @@
         },
         "phone": "",
         "email": "info@busch-baumpflege.de",
-        "website": "www.busch-baumpflege.de",
+        "website": null,
         "image": "images/1203605.png"
     },
     {
@@ -656,7 +639,7 @@
         },
         "phone": "0761-62499",
         "email": "info@arborist.de",
-        "website": "http://www.arborist.de",
+        "website": null,
         "image": "images/1203606.png"
     },
     {
@@ -675,7 +658,7 @@
         },
         "phone": "02561-897835",
         "email": "",
-        "website": "http://www.bueter-bodensanierung.de",
+        "website": null,
         "image": "images/1203607.png"
     },
     {
@@ -694,7 +677,7 @@
         },
         "phone": "0176-24839027",
         "email": "post@baumpflege-potsdam.de",
-        "website": "www.baumpflege-potsdam.de",
+        "website": null,
         "image": null
     },
     {
@@ -702,12 +685,15 @@
         "name": "Hannu Cools",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "L\u00fctticher Str.559",
+            "zip": "52074",
+            "city": "Aachen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.7737307,
+            "lon": 6.0362438
+        },
         "phone": "0176-10204179",
         "email": "Hannubmx@hotmail.com",
         "website": null,
@@ -729,7 +715,7 @@
         },
         "phone": "06103-602552",
         "email": "buero@freelance-baumpflege.de",
-        "website": "http://www.freelance-baumpflege.de",
+        "website": null,
         "image": "images/1203610.png"
     },
     {
@@ -737,15 +723,18 @@
         "name": "Kay Dassow",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Goosholzer Str.55",
+            "zip": "24896",
+            "city": "Treia",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 54.5144957,
+            "lon": 9.3147918
+        },
         "phone": "",
         "email": "info@dassow-baumpflege.de",
-        "website": "www.dassow-baumpflege.de",
+        "website": null,
         "image": null
     },
     {
@@ -753,12 +742,15 @@
         "name": "Jamie Degel",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Hoopter Str.255",
+            "zip": "21423",
+            "city": "Winser L\u00fche",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 53.3418313,
+            "lon": 10.2254403
+        },
         "phone": "0152-51466838",
         "email": "jamiedegel@hotmail.de",
         "website": null,
@@ -769,12 +761,15 @@
         "name": "Antoine Demoux",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Alt-Preungesheim 9",
+            "zip": "60435",
+            "city": "Frankfurt/Main",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.1587531,
+            "lon": 8.6921359
+        },
         "phone": "",
         "email": "demoux.a@googlemail.com",
         "website": null,
@@ -796,7 +791,7 @@
         },
         "phone": "09123-9898970",
         "email": "info@dengler-ing.de",
-        "website": "http://www.dengler-ing.de",
+        "website": null,
         "image": "images/1203614.png"
     },
     {
@@ -815,7 +810,7 @@
         },
         "phone": "",
         "email": "info@baumpflegeduesseldorf.com",
-        "website": "www.baumpflegeduesseldorf.com",
+        "website": null,
         "image": "images/1203615.png"
     },
     {
@@ -834,27 +829,8 @@
         },
         "phone": "0351-8800148",
         "email": "info@deppner-baumpflege.de",
-        "website": "http://www.deppner-baumpflege.de",
-        "image": "images/1203616.png"
-    },
-    {
-        "id": 1203617,
-        "name": "Jutta Diederich-Silvanus",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Sch\u00f6ndorfer Str. 4",
-            "zip": "54292",
-            "city": "Trier",
-            "country": ""
-        },
-        "coords": {
-            "lat": 49.7751841,
-            "lon": 6.6882523
-        },
-        "phone": "",
-        "email": "jdiederich@web.de",
         "website": null,
-        "image": null
+        "image": "images/1203616.png"
     },
     {
         "id": 1203618,
@@ -899,12 +875,15 @@
         "name": "Dominic D\u00f6ring",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "B\u00f6ckerschestr. 10",
+            "zip": "46487",
+            "city": "Wesel",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.670069,
+            "lon": 6.5414504
+        },
         "phone": "0179-2312094",
         "email": "dominicdoering@gmx.de",
         "website": null,
@@ -926,7 +905,7 @@
         },
         "phone": "0201-665177",
         "email": "info@kusche-baumdienst.de",
-        "website": "www.kusche-baumdienst.de",
+        "website": null,
         "image": "images/1203621.png"
     },
     {
@@ -964,7 +943,7 @@
         },
         "phone": "+49 7684 907 907 22",
         "email": "buchhaltung@drayer.de",
-        "website": "http://www.drayer.de",
+        "website": null,
         "image": "images/1203623.png"
     },
     {
@@ -983,7 +962,7 @@
         },
         "phone": "",
         "email": "info@stamm-und-ast.de",
-        "website": "http://www.stamm-und-ast.de",
+        "website": null,
         "image": "images/1203624.png"
     },
     {
@@ -1021,7 +1000,7 @@
         },
         "phone": "0531-3800410",
         "email": "baumredaktion@gmx.de",
-        "website": "http://www.haymarket.de",
+        "website": null,
         "image": "images/1203626.png"
     },
     {
@@ -1040,7 +1019,7 @@
         },
         "phone": "040-7241310",
         "email": "dirk.dujesiefken@institut-fuer-baumpflege.de",
-        "website": "http://www.institut-fuer-baumpflege.de",
+        "website": null,
         "image": "images/1203627.png"
     },
     {
@@ -1059,7 +1038,7 @@
         },
         "phone": "01743556555",
         "email": "jakob@dbaumpfleger.de",
-        "website": "www.dbaumpfleger.de",
+        "website": null,
         "image": "images/1203628.png"
     },
     {
@@ -1067,15 +1046,18 @@
         "name": "Ronny Epple",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Gl\u00fcckhof 1",
+            "zip": "72525",
+            "city": "M\u00fcnsingen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.3917895,
+            "lon": 9.4979406
+        },
         "phone": "0171-1742063",
         "email": "ronny@baumkletterteam.de",
-        "website": "http://www.baumkletterteam.de",
+        "website": null,
         "image": null
     },
     {
@@ -1094,7 +1076,7 @@
         },
         "phone": "",
         "email": "kontakt@baum-welt.de",
-        "website": "http://www.baum-welt.de",
+        "website": null,
         "image": "images/1203630.png"
     },
     {
@@ -1186,7 +1168,7 @@
         },
         "phone": "02237-6036946",
         "email": "info@baumpflege-fey.de",
-        "website": "www.baumpflege-fey.de",
+        "website": null,
         "image": "images/1203635.png"
     },
     {
@@ -1205,7 +1187,7 @@
         },
         "phone": "",
         "email": "info@foersterbaumundgarten.de",
-        "website": "www.foersterbaumundgarten.de",
+        "website": null,
         "image": "images/1203636.png"
     },
     {
@@ -1213,15 +1195,18 @@
         "name": "David F\u00f6rstermann",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Reitlieh\u00e4user Weg 1",
+            "zip": "37170",
+            "city": "Uslar",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.6643972,
+            "lon": 9.6502771
+        },
         "phone": "",
         "email": "info@diefoerster.de",
-        "website": "www.diefoerster.de",
+        "website": null,
         "image": null
     },
     {
@@ -1240,7 +1225,7 @@
         },
         "phone": "05951-988513",
         "email": "info@baumpflege-fortwengel.de",
-        "website": "http://www.baumpflege-fortwengel.de",
+        "website": null,
         "image": "images/1203638.png"
     },
     {
@@ -1248,12 +1233,15 @@
         "name": "Julius Fottner",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Unterstark 1",
+            "zip": "85305",
+            "city": "Jetzendorf",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.4366533,
+            "lon": 11.4146362
+        },
         "phone": "0151-42539076",
         "email": "unterstark.baumpflege@gmail.com",
         "website": null,
@@ -1275,7 +1263,7 @@
         },
         "phone": "04154-5967955",
         "email": "mail@gruenland-info.de",
-        "website": "http://www.gruenland-info.de",
+        "website": null,
         "image": "images/1203640.png"
     },
     {
@@ -1321,12 +1309,15 @@
         "name": "Winfried Funke",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Am Rodderberg 2",
+            "zip": "53343",
+            "city": "Wachtberg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.6227277,
+            "lon": 7.1207261
+        },
         "phone": "0174-9907069",
         "email": "winniefunke@web.de",
         "website": null,
@@ -1337,12 +1328,15 @@
         "name": "Fabian G\u00e4ckle",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Krumme Strasse 4",
+            "zip": "37444",
+            "city": "St. Andreasberg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.7198411,
+            "lon": 10.5359621
+        },
         "phone": "0163-1639788",
         "email": "fgaeckle@riseup.net",
         "website": null,
@@ -1364,7 +1358,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-gehrmann.de",
-        "website": "http://www.baumpflege-gehrmann.de",
+        "website": null,
         "image": "images/1203645.png"
     },
     {
@@ -1383,7 +1377,7 @@
         },
         "phone": "0911-98805222",
         "email": "post@oli-wood.de",
-        "website": "www.oli-wood.de",
+        "website": null,
         "image": "images/1203646.png"
     },
     {
@@ -1402,7 +1396,7 @@
         },
         "phone": "02561-6956767",
         "email": "Johannes@gewersbaumpflege.de",
-        "website": "http://www.gewersbaumpflege.de",
+        "website": null,
         "image": "images/1203647.png"
     },
     {
@@ -1459,7 +1453,7 @@
         },
         "phone": "0711-235661",
         "email": "pbs@cobranet.de",
-        "website": "http://www.cobranet.de",
+        "website": null,
         "image": "images/1203650.png"
     },
     {
@@ -1478,7 +1472,7 @@
         },
         "phone": "0621-8649676",
         "email": "webmaster@goos-baumpflege.de",
-        "website": "http://www.goos-baumpflege.de",
+        "website": null,
         "image": "images/1203651.png"
     },
     {
@@ -1497,7 +1491,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-gottwald.de",
-        "website": "http://www.baumpflege-gottwald.de",
+        "website": null,
         "image": "images/1203652.png"
     },
     {
@@ -1516,7 +1510,7 @@
         },
         "phone": "06031-9649670",
         "email": "Marugoe@web.de",
-        "website": "http://www.goetz-baumpflege.de",
+        "website": null,
         "image": "images/1203653.png"
     },
     {
@@ -1554,7 +1548,7 @@
         },
         "phone": "069-783908",
         "email": "info@baumpflege-elbert.de",
-        "website": "www.baumpflege-elbert.de",
+        "website": null,
         "image": "images/1203655.png"
     },
     {
@@ -1581,10 +1575,10 @@
         "name": "Olaf Grundmann",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Mozartstr.12",
+            "zip": "58736",
+            "city": "Iselohn",
+            "country": "Deutschland"
         },
         "coords": null,
         "phone": "0172-2604339",
@@ -1597,15 +1591,18 @@
         "name": "Felix Gutbrod",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Daimlerstr. 1",
+            "zip": "63768",
+            "city": "H\u00f6sbach",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.0113447,
+            "lon": 9.2153485
+        },
         "phone": "0199-9433211",
         "email": "info@kommunaler-baum.de",
-        "website": "www.kommunaler-baum.de",
+        "website": null,
         "image": null
     },
     {
@@ -1624,7 +1621,7 @@
         },
         "phone": "01799783777",
         "email": "info@baumpflege-gutmann.de",
-        "website": "www.baumpflege-gutmann.de",
+        "website": null,
         "image": "images/1203659.png"
     },
     {
@@ -1659,7 +1656,7 @@
         "coords": null,
         "phone": "04151-898633",
         "email": "info@hagen-baumpflege.de",
-        "website": "http://www.hagen-baumpflege.de",
+        "website": null,
         "image": "images/1203661.png"
     },
     {
@@ -1678,7 +1675,7 @@
         },
         "phone": "",
         "email": "gregor@hanschbaumpflege.de",
-        "website": "www..hanschbaumpflege.de",
+        "website": null,
         "image": "images/1203662.png"
     },
     {
@@ -1697,7 +1694,7 @@
         },
         "phone": "07158-9867147",
         "email": "mhansch@hansch-baumtechnik.de",
-        "website": "http://www.hansch-baumtechnik.de",
+        "website": null,
         "image": "images/1203663.png"
     },
     {
@@ -1713,7 +1710,7 @@
         "coords": null,
         "phone": "04106-80909 0",
         "email": "rechnungen-ellerau@baumpflege-bollmann.de",
-        "website": "http://www.baumpflege-bollmann.de",
+        "website": null,
         "image": "images/1203664.png"
     },
     {
@@ -1732,7 +1729,7 @@
         },
         "phone": "05273-35644",
         "email": "info@baumpflege-oberweser.de",
-        "website": "http://www.baumpflege-oberweser.de",
+        "website": null,
         "image": "images/1203665.png"
     },
     {
@@ -1751,7 +1748,7 @@
         },
         "phone": "05286-990508",
         "email": "info@baum-Art.com",
-        "website": "http://www.baum-Art.com",
+        "website": null,
         "image": "images/1203666.png"
     },
     {
@@ -1770,7 +1767,7 @@
         },
         "phone": "0241-173905",
         "email": "baumpflege.herpertz@t-online.de",
-        "website": "http://www.baumpflege-herpertz.de",
+        "website": null,
         "image": "images/1203667.png"
     },
     {
@@ -1778,15 +1775,18 @@
         "name": "John Higgins",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "An der Hundewiese 29",
+            "zip": "44269",
+            "city": "Dortmund",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.4892104,
+            "lon": 7.5326335
+        },
         "phone": "0171-1736015",
         "email": "info@higgins-baumdienst.de",
-        "website": "www.higgins-baumdienst.de",
+        "website": null,
         "image": null
     },
     {
@@ -1805,7 +1805,7 @@
         },
         "phone": "040-43094242",
         "email": "baumpflege@astwerk.de",
-        "website": "whttp://www.astwerk.de",
+        "website": null,
         "image": "images/1203669.png"
     },
     {
@@ -1824,7 +1824,7 @@
         },
         "phone": "07531-3619339",
         "email": "",
-        "website": "http://www.stammesbruder.de",
+        "website": null,
         "image": "images/1203670.png"
     },
     {
@@ -1859,7 +1859,7 @@
         "coords": null,
         "phone": "",
         "email": "info@max-hoehn.de",
-        "website": "www.max-hoehn.de",
+        "website": null,
         "image": "images/1203672.png"
     },
     {
@@ -1867,12 +1867,15 @@
         "name": "Philipp Holighaus",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Am Ringwall 5",
+            "zip": "65207",
+            "city": "Wiesbaden",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.110511,
+            "lon": 8.3110701
+        },
         "phone": "0157-35804729",
         "email": "baumpflege.holighaus@gmail.com",
         "website": null,
@@ -1883,15 +1886,18 @@
         "name": "Thomas Holm",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "B\u00e4nschstr.20",
+            "zip": "10247",
+            "city": "Berlin",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.5157448,
+            "lon": 13.4651279
+        },
         "phone": "0151-25619426",
         "email": "mail@baumpflegethomasholm.de",
-        "website": "www.baumpflegethomasholm.de",
+        "website": null,
         "image": null
     },
     {
@@ -1902,7 +1908,7 @@
             "street": "Oberdorfstr, 8",
             "zip": "71364",
             "city": "Winnenden",
-            "country": "Germany"
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 48.8725502,
@@ -1918,15 +1924,15 @@
         "name": "Uwe Horstmann",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Hauptstr. 50",
+            "zip": "55599",
+            "city": "Eckelsheim",
+            "country": "Deutschland"
         },
         "coords": null,
         "phone": "",
         "email": "info@funkygardens.de",
-        "website": "www.funkygardens.de",
+        "website": null,
         "image": null
     },
     {
@@ -1945,7 +1951,7 @@
         },
         "phone": "",
         "email": "info@baumpflegehundertmark.de",
-        "website": "www.baumpflegehundertmark.de",
+        "website": null,
         "image": "images/1203677.png"
     },
     {
@@ -1956,7 +1962,7 @@
             "street": "Essenweinstr., 17a",
             "zip": "76131",
             "city": "Karlsruhe",
-            "country": "Germany"
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 49.0463015,
@@ -1964,7 +1970,7 @@
         },
         "phone": "0157-71913074",
         "email": "info@baumklettern-jacob.de",
-        "website": "www.baumklettern-jacob.de",
+        "website": null,
         "image": null
     },
     {
@@ -1972,12 +1978,15 @@
         "name": "Falk J\u00e4kel",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Laubigtweg 45",
+            "zip": "01844",
+            "city": "Neustadt",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.0324257,
+            "lon": 14.2241076
+        },
         "phone": "0173-2738873",
         "email": "baumfalke84@gmail.com",
         "website": null,
@@ -2007,10 +2016,10 @@
         "name": "Peter Jasper",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Dechant-Wessing-Str.18",
+            "zip": "48231",
+            "city": "Warendorf-Hoetmar",
+            "country": "Deutschland"
         },
         "coords": null,
         "phone": "0160-8060677",
@@ -2023,15 +2032,15 @@
         "name": "Martin Jurich",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Brucknerstr.2",
+            "zip": "69469",
+            "city": "Hohensachsen",
+            "country": "Deutschland"
         },
         "coords": null,
         "phone": "0163-2336365",
         "email": "info@baumpflegeMartinJurich.de",
-        "website": "http://www.baumpflegeMartinJurich.de",
+        "website": null,
         "image": null
     },
     {
@@ -2058,15 +2067,18 @@
         "name": "Moritz Kaether",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Dammstr. 44",
+            "zip": "31195",
+            "city": "Lamspringe",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.9737779,
+            "lon": 9.9979525
+        },
         "phone": "0152-56303406",
         "email": "moritz@treecarekaether.de",
-        "website": "www.treecarekaether.de",
+        "website": null,
         "image": null
     },
     {
@@ -2085,7 +2097,7 @@
         },
         "phone": "",
         "email": "atelier-kalden@freie-werkgemeinschaft.de",
-        "website": "http://www.freie-werkgemeinschaft.de",
+        "website": null,
         "image": "images/1203685.png"
     },
     {
@@ -2104,7 +2116,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "www.karschay.de",
+        "website": null,
         "image": "images/1203686.png"
     },
     {
@@ -2123,7 +2135,7 @@
         },
         "phone": "",
         "email": "info@arboreal-baumpflege.de",
-        "website": "www.arboreal-baumpflege.de",
+        "website": null,
         "image": "images/1203687.png"
     },
     {
@@ -2142,7 +2154,7 @@
         },
         "phone": "0551-5032152",
         "email": "rolf.kehr@hawk.de",
-        "website": "http://www.hawk-hhg.de",
+        "website": null,
         "image": "images/1203688.png"
     },
     {
@@ -2150,15 +2162,18 @@
         "name": "Joseph Klaffenb\u00f6ck",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Postfach 1171",
+            "zip": "94001",
+            "city": "Passau",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.5748229,
+            "lon": 13.4609744
+        },
         "phone": "",
         "email": "pfeni@terra-silva.com",
-        "website": "http://www.arbor-consult.de",
+        "website": null,
         "image": null
     },
     {
@@ -2166,12 +2181,15 @@
         "name": "Andy Klapprott",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Angerm\u00fcnderstr.73",
+            "zip": "12305",
+            "city": "Berlin",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.4014805,
+            "lon": 13.3997526
+        },
         "phone": "01577-9389993",
         "email": "baumpflege-klapprott@web.de",
         "website": null,
@@ -2193,7 +2211,7 @@
         },
         "phone": "06049-950303",
         "email": "",
-        "website": "http://www.seilkletterschule.de",
+        "website": null,
         "image": "images/1203691.png"
     },
     {
@@ -2201,12 +2219,15 @@
         "name": "Frederick Klein",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "F\u00f6rsterstr.19",
+            "zip": "57076",
+            "city": "Siegen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.9023972,
+            "lon": 8.0328723
+        },
         "phone": "0176-81098348",
         "email": "frederick.klein@web.de",
         "website": null,
@@ -2228,7 +2249,7 @@
         },
         "phone": "015253625996",
         "email": "info@arbor-surveyor.de",
-        "website": "www.baumpflege-vlotho.de",
+        "website": null,
         "image": "images/1203693.png"
     },
     {
@@ -2247,7 +2268,7 @@
         },
         "phone": "07164-8160003",
         "email": "P.Klug@arbus.de",
-        "website": "http://www.arbus.de",
+        "website": null,
         "image": "images/1203694.png"
     },
     {
@@ -2266,7 +2287,7 @@
         },
         "phone": "089-69375190",
         "email": "info@arboris.org",
-        "website": "http://www.arboris.org",
+        "website": null,
         "image": "images/1203695.png"
     },
     {
@@ -2285,7 +2306,7 @@
         },
         "phone": "",
         "email": "gruen-in-form@posteo.de",
-        "website": "http://www.gruen-in-form.net",
+        "website": null,
         "image": "images/1203696.png"
     },
     {
@@ -2304,7 +2325,7 @@
         },
         "phone": "04107-93685253",
         "email": "peterkohn@baumpfleger.ch",
-        "website": "http://www.baumpfleger.ch",
+        "website": null,
         "image": "images/1203697.png"
     },
     {
@@ -2331,12 +2352,15 @@
         "name": "Vincent Kranz",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Auf dem Steinacker 9",
+            "zip": "37077",
+            "city": "G\u00f6ttingen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.5685757,
+            "lon": 9.9746972
+        },
         "phone": "01577-9306093",
         "email": "vincent.kranz@freenet.de",
         "website": null,
@@ -2358,7 +2382,7 @@
         },
         "phone": "01573-1300632",
         "email": "",
-        "website": "www.baumpflege-kraenzlein.de",
+        "website": null,
         "image": "images/1203700.png"
     },
     {
@@ -2385,12 +2409,15 @@
         "name": "Dirk Krueger",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Fredenbecker Stra\u00dfe 53",
+            "zip": "27449",
+            "city": "Kutenholz",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 53.4898342,
+            "lon": 9.3152059
+        },
         "phone": "0170-3149231",
         "email": "baumkrueger@gmail.com",
         "website": null,
@@ -2412,7 +2439,7 @@
         },
         "phone": "",
         "email": "info@baumfachwerk.de",
-        "website": "www.baumfachwerk.de",
+        "website": null,
         "image": "images/1203703.png"
     },
     {
@@ -2431,7 +2458,7 @@
         },
         "phone": "030-37584089",
         "email": "",
-        "website": "http://www.baumsachverstaendiger-kusche.de",
+        "website": null,
         "image": "images/1203704.png"
     },
     {
@@ -2439,12 +2466,15 @@
         "name": "Felix Lacher",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Westerhofen 71",
+            "zip": "87527",
+            "city": "Ofterschwang",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 47.4965591,
+            "lon": 10.2378968
+        },
         "phone": "",
         "email": "flacher@gmx.de",
         "website": null,
@@ -2455,10 +2485,10 @@
         "name": "Andreas Lambert",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Johannisstr. 34a",
+            "zip": "48308",
+            "city": "Senden - B\u00f6sensell",
+            "country": "Deutschland"
         },
         "coords": null,
         "phone": "",
@@ -2482,7 +2512,7 @@
         },
         "phone": "0761-6964970",
         "email": "post@baumpartner-breisgau.de",
-        "website": "http://www.baumpartner-breisgau.de",
+        "website": null,
         "image": "images/1203707.png"
     },
     {
@@ -2501,7 +2531,7 @@
         },
         "phone": "0561-93715357",
         "email": "w.lenzner@blattwerker.com",
-        "website": "http://www.blattwerker.com",
+        "website": null,
         "image": "images/1203708.png"
     },
     {
@@ -2509,12 +2539,15 @@
         "name": "Martin Leupold",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Kringskamp 33",
+            "zip": "41844",
+            "city": "Wegberg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.145722,
+            "lon": 6.2381752
+        },
         "phone": "",
         "email": "leupold.martin@t-online.de",
         "website": null,
@@ -2536,7 +2569,7 @@
         },
         "phone": "02173-1626823",
         "email": "info@baumpflege-leven.de",
-        "website": "www.baumpflege-leven.de",
+        "website": null,
         "image": "images/1203710.png"
     },
     {
@@ -2555,7 +2588,7 @@
         },
         "phone": "030-23944773",
         "email": "mail@baumliebe.de",
-        "website": "http://www.baumliebe.de",
+        "website": null,
         "image": "images/1203711.png"
     },
     {
@@ -2574,7 +2607,7 @@
         },
         "phone": "04241-970727",
         "email": "",
-        "website": "http://www.baumbuero.de",
+        "website": null,
         "image": "images/1203712.png"
     },
     {
@@ -2582,12 +2615,15 @@
         "name": "Patrick L\u00f6ffler",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Am Sommerberg 3",
+            "zip": "36325",
+            "city": "Feldatal",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.6356198,
+            "lon": 9.1856107
+        },
         "phone": "0152-33522728",
         "email": "patrickloffler@aol.com",
         "website": null,
@@ -2598,12 +2634,15 @@
         "name": "Clemens L\u00fcbbeke",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Sommerstr.46",
+            "zip": "81543",
+            "city": "M\u00fcnchen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.108303,
+            "lon": 11.5650347
+        },
         "phone": "",
         "email": "clemens@b31.net",
         "website": null,
@@ -2614,12 +2653,15 @@
         "name": "Kay L\u00fcddecke",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Volksdorfer Grenzweg 81",
+            "zip": "22359",
+            "city": "Hamburg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 53.6530976,
+            "lon": 10.1636902
+        },
         "phone": "0151-50739917",
         "email": "kl-gala@gmx.de",
         "website": null,
@@ -2660,7 +2702,7 @@
         },
         "phone": "030-8594866",
         "email": "dialog@gvl-baumdienst.de",
-        "website": "http://www.gvl-baumdienst.de",
+        "website": null,
         "image": "images/1203717.png"
     },
     {
@@ -2668,12 +2710,15 @@
         "name": "Bastian Maaser",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Haubachstr. 38",
+            "zip": "22765",
+            "city": "Hamburg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 53.5540662,
+            "lon": 9.9315325
+        },
         "phone": "0177-6365573",
         "email": "bmaaser@gmx.de",
         "website": null,
@@ -2695,7 +2740,7 @@
         },
         "phone": "07127-525255",
         "email": "Christoph.Mack@alles-am-baum.de",
-        "website": "http://www.alles-am-baum.de",
+        "website": null,
         "image": "images/1203719.png"
     },
     {
@@ -2714,7 +2759,7 @@
         },
         "phone": "",
         "email": "info@arboracrobat.de",
-        "website": "www.arboracrobat.de",
+        "website": null,
         "image": "images/1203720.png"
     },
     {
@@ -2733,7 +2778,7 @@
         },
         "phone": "0621-68 3333 59",
         "email": "mandel-gruene-dienste@vodafonemail.de",
-        "website": "http://www.mandel-gruene-dienste.de",
+        "website": null,
         "image": "images/1203721.png"
     },
     {
@@ -2771,7 +2816,7 @@
         },
         "phone": "040-63973947",
         "email": "kontakt@arborartist.de",
-        "website": "http://www.arborartist.de",
+        "website": null,
         "image": "images/1203723.png"
     },
     {
@@ -2790,7 +2835,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "www.evamauz.de",
+        "website": null,
         "image": "images/1203724.png"
     },
     {
@@ -2809,7 +2854,7 @@
         },
         "phone": "0221-5507722",
         "email": "info@baumpfleger.de",
-        "website": "http://www.baumpfleger.de",
+        "website": null,
         "image": "images/1203725.png"
     },
     {
@@ -2828,7 +2873,7 @@
         },
         "phone": "04703-9110368",
         "email": "info@merbitz-garten.de",
-        "website": "www.baumpflege-wesermuende.de",
+        "website": null,
         "image": "images/1203726.png"
     },
     {
@@ -2847,7 +2892,7 @@
         },
         "phone": "0221-29874302",
         "email": "baumpflege@kronen-werk.de",
-        "website": "www.kronen-werk.de",
+        "website": null,
         "image": "images/1203727.png"
     },
     {
@@ -2866,7 +2911,7 @@
         },
         "phone": "",
         "email": "mail@samsbaum.de",
-        "website": "www.samsbaum.de",
+        "website": null,
         "image": "images/1203728.png"
     },
     {
@@ -2874,12 +2919,15 @@
         "name": "Karsten Mohr",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Kirchenstr.32",
+            "zip": "25597",
+            "city": "Breitenberg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 53.9237165,
+            "lon": 9.6391336
+        },
         "phone": "",
         "email": "rechnung@hdl-gartenbau.de ",
         "website": null,
@@ -2939,7 +2987,7 @@
         },
         "phone": "035208-956-0",
         "email": "rechnung@cityforest.de",
-        "website": "http://www.ityforest.de",
+        "website": null,
         "image": "images/1203732.png"
     },
     {
@@ -2958,7 +3006,7 @@
         },
         "phone": "0261-21483",
         "email": "info@tannenmueller.de",
-        "website": "http://www.tannenmueller.de",
+        "website": null,
         "image": "images/1203733.png"
     },
     {
@@ -2966,15 +3014,18 @@
         "name": "Andreas N\u00f6rthemann",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Friedhofstr. 20",
+            "zip": "30453",
+            "city": "Hannover",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.3707358,
+            "lon": 9.6836894
+        },
         "phone": "",
         "email": "info@baumpflege-noerthemann.de",
-        "website": "http://www.baumpflege-noerthemann.de",
+        "website": null,
         "image": null
     },
     {
@@ -2993,7 +3044,7 @@
         },
         "phone": "",
         "email": "mathias.oppolzer@gmail.com",
-        "website": "http://www.baumkosmos.de/",
+        "website": null,
         "image": "images/1203735.png"
     },
     {
@@ -3012,7 +3063,7 @@
         },
         "phone": "0511-447036",
         "email": "info@ovens.de",
-        "website": "www.ovens.de",
+        "website": null,
         "image": "images/1203736.png"
     },
     {
@@ -3050,7 +3101,7 @@
         },
         "phone": "07631-13057",
         "email": "info@baumkultur.de",
-        "website": "http://www.baumkultur.de",
+        "website": null,
         "image": "images/1203738.png"
     },
     {
@@ -3069,7 +3120,7 @@
         },
         "phone": "0551-7076674",
         "email": "info@atp-baum.de",
-        "website": "http://www.atp-baum.de",
+        "website": null,
         "image": "images/1203739.png"
     },
     {
@@ -3088,7 +3139,7 @@
         },
         "phone": "06152-964960",
         "email": "info@baum4.de",
-        "website": "http://www.svb-leitsch.de",
+        "website": null,
         "image": "images/1203740.png"
     },
     {
@@ -3107,7 +3158,7 @@
         },
         "phone": "0511-4003986",
         "email": "info@gaertner-arbeiten.de",
-        "website": "www.gaertner-arbeiten.de",
+        "website": null,
         "image": "images/1203741.png"
     },
     {
@@ -3117,7 +3168,7 @@
         "address": {
             "street": "Ludwig-Erhard-Stra\u00dfe 2",
             "zip": "65760",
-            "city": " Eschborn",
+            "city": "Eschborn",
             "country": "Deutschland"
         },
         "coords": {
@@ -3126,7 +3177,7 @@
         },
         "phone": "",
         "email": "post@grounds-buildings.de",
-        "website": "www.pottmeier.de",
+        "website": null,
         "image": "images/1203742.png"
     },
     {
@@ -3145,7 +3196,7 @@
         },
         "phone": "0333.8350123",
         "email": "baumzeit@baumzeit.info",
-        "website": "http://www.baumzeit.info",
+        "website": null,
         "image": "images/1203743.png"
     },
     {
@@ -3164,7 +3215,7 @@
         },
         "phone": "069-558220",
         "email": "info@baumpflege-rahmann.de",
-        "website": "http://www.baumpflege-rahmann.de",
+        "website": null,
         "image": "images/1203744.png"
     },
     {
@@ -3172,12 +3223,15 @@
         "name": "Peter Rammes",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Charlottenstr.15",
+            "zip": "42105",
+            "city": "Wuppertal",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.2611954,
+            "lon": 7.1392065
+        },
         "phone": "",
         "email": "peterrammes@gmail.com",
         "website": null,
@@ -3199,7 +3253,7 @@
         },
         "phone": "",
         "email": "info@baumpatrouille.de",
-        "website": "www.baumpatrouille.de",
+        "website": null,
         "image": "images/1203746.png"
     },
     {
@@ -3218,7 +3272,7 @@
         },
         "phone": "",
         "email": "sascha.reisch@baumbua.de",
-        "website": "www.baumbua.de",
+        "website": null,
         "image": "images/1203747.png"
     },
     {
@@ -3226,15 +3280,18 @@
         "name": "Martin Rensing",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Oster 408",
+            "zip": "48067",
+            "city": "Ochtrup",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.2102308,
+            "lon": 7.188806
+        },
         "phone": "",
         "email": "m.rensing@baumgutachter.net",
-        "website": "http://www.baumgutachter.net",
+        "website": null,
         "image": null
     },
     {
@@ -3242,12 +3299,15 @@
         "name": "Andy Richter",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "W\u00fcstermarke 46",
+            "zip": "15926",
+            "city": "Heideblick",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.8279014,
+            "lon": 13.6867281
+        },
         "phone": "0162-2375778",
         "email": "slackandy85@web.de",
         "website": null,
@@ -3269,7 +3329,7 @@
         },
         "phone": "06196-7611777",
         "email": "",
-        "website": "http://www.sv-riebold.de",
+        "website": null,
         "image": "images/1203750.png"
     },
     {
@@ -3288,7 +3348,7 @@
         },
         "phone": "05601-961421",
         "email": "kontakt@baumpflege-riechmann.de",
-        "website": "http://www.baumpflege-riechmann.de",
+        "website": null,
         "image": "images/1203751.png"
     },
     {
@@ -3326,7 +3386,7 @@
         },
         "phone": "06221-71405200",
         "email": "frank.rinn@rinntech.com",
-        "website": "http://www.rinntech.com",
+        "website": null,
         "image": "images/1203753.png"
     },
     {
@@ -3353,15 +3413,18 @@
         "name": "Thomas Roder",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Weststr.9",
+            "zip": "59427",
+            "city": "Unna",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.5341324,
+            "lon": 7.745593
+        },
         "phone": "0179-2178522",
         "email": "br@baumagent.de",
-        "website": "http://www.baumpflegeschule.de",
+        "website": null,
         "image": null
     },
     {
@@ -3380,7 +3443,7 @@
         },
         "phone": "",
         "email": "rudolph@arbosano.de",
-        "website": "www.arbosano.de",
+        "website": null,
         "image": "images/1203756.png"
     },
     {
@@ -3388,12 +3451,15 @@
         "name": "Thomas Sack",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Herrenstr. 2",
+            "zip": "82399",
+            "city": "Raisting",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 47.9061488,
+            "lon": 11.1115406
+        },
         "phone": "0151-67716123",
         "email": "thomassack1@aol.com",
         "website": null,
@@ -3415,7 +3481,7 @@
         },
         "phone": "04534-204606",
         "email": "post@dasgruenwerk.de",
-        "website": "http://www.dasgruenwerk.de",
+        "website": null,
         "image": "images/1203758.png"
     },
     {
@@ -3423,12 +3489,15 @@
         "name": "Jonathan Sauer",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Brauweg 37",
+            "zip": "37073",
+            "city": "G\u00f6ttingen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.5376941,
+            "lon": 9.9381346
+        },
         "phone": "0152-27180546",
         "email": "kontakt@baumpflege-sauer.de",
         "website": null,
@@ -3439,12 +3508,15 @@
         "name": "Christoph Schaab",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Selbig 18",
+            "zip": "79215",
+            "city": "Biederbach",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.1976258,
+            "lon": 8.0382223
+        },
         "phone": "0179-665 8888",
         "email": "Baumschaab@gmx.de",
         "website": null,
@@ -3482,7 +3554,7 @@
         "coords": null,
         "phone": "",
         "email": "ms@gartenpflege-immergruen.de",
-        "website": "www.gartenpflege-immergruen.de",
+        "website": null,
         "image": "images/1203762.png"
     },
     {
@@ -3490,15 +3562,18 @@
         "name": "Roland Schindler",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Wischergasse 9",
+            "zip": "72144",
+            "city": "Dusslingen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.4598489,
+            "lon": 9.0483029
+        },
         "phone": "",
         "email": "info@baumundseil.de",
-        "website": "www.baumundseil.de",
+        "website": null,
         "image": null
     },
     {
@@ -3517,7 +3592,7 @@
         },
         "phone": "07271-51308",
         "email": "info@giglberger-schloss.de",
-        "website": "http://www.giglberger-schloss.de",
+        "website": null,
         "image": "images/1203764.png"
     },
     {
@@ -3536,7 +3611,7 @@
         },
         "phone": "05194-9000",
         "email": "jcs@grube.de",
-        "website": "www.grube.de",
+        "website": null,
         "image": "images/1203765.png"
     },
     {
@@ -3593,7 +3668,7 @@
         },
         "phone": "030-35504420",
         "email": "baumprofis-liedtke@t-online.de",
-        "website": "http://www.baumprofis-liedtke.de",
+        "website": null,
         "image": "images/1203768.png"
     },
     {
@@ -3626,12 +3701,12 @@
             "country": "Deutschland"
         },
         "coords": {
-            "lat": 53.1162202,
-            "lon": 8.0196762
+            "lat": 53.1176666,
+            "lon": 7.993348
         },
         "phone": "04409-920316",
         "email": "",
-        "website": "http://www.baumbuero.de",
+        "website": null,
         "image": "images/1203770.png"
     },
     {
@@ -3669,7 +3744,7 @@
         },
         "phone": "040-42918589",
         "email": "info@baumdienstnortis.de",
-        "website": "http://www.baumdienst-nortis.de",
+        "website": null,
         "image": "images/1203772.png"
     },
     {
@@ -3688,7 +3763,7 @@
         },
         "phone": "033701-22970",
         "email": "info@lvga-bb.de",
-        "website": "www.lvga-bb.de",
+        "website": null,
         "image": "images/1203773.png"
     },
     {
@@ -3707,7 +3782,7 @@
         },
         "phone": "04871-5588521",
         "email": "info@tree-concept.de",
-        "website": "www.tree-concept.de",
+        "website": null,
         "image": "images/1203774.png"
     },
     {
@@ -3745,7 +3820,7 @@
         },
         "phone": "0171/6759014",
         "email": "kontakt@msbaumpflege.de",
-        "website": "www.msbaumpflege.de",
+        "website": null,
         "image": null
     },
     {
@@ -3764,7 +3839,7 @@
         },
         "phone": "0421-48 40680",
         "email": "info@die-kletterer.com",
-        "website": "http://www.die-kletterer.com",
+        "website": null,
         "image": "images/1203777.png"
     },
     {
@@ -3791,12 +3866,15 @@
         "name": "Ludwig Schwarz",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Kreuzeckweg 18",
+            "zip": "82491",
+            "city": "Grainau",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 47.4546273,
+            "lon": 11.0068117
+        },
         "phone": "0172-8254276",
         "email": "baumpflegeludwigschwarz@gmx.de",
         "website": null,
@@ -3807,15 +3885,18 @@
         "name": "Helmut Schwengels",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Hellweg 4a",
+            "zip": "37671",
+            "city": "H\u00f6xter",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.7865686,
+            "lon": 9.3446713
+        },
         "phone": "0172-5645737",
         "email": "kontakt@zweigwerk-baumpflege.de",
-        "website": "www.zweigwerk-baumpflege.de",
+        "website": null,
         "image": null
     },
     {
@@ -3823,12 +3904,15 @@
         "name": "Christoph Seemann",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Soester Str. 9",
+            "zip": "48155",
+            "city": "M\u00fcnster",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.953588,
+            "lon": 7.6498394
+        },
         "phone": "0152-29643806",
         "email": "hello@treelicious.de",
         "website": null,
@@ -3869,7 +3953,7 @@
         },
         "phone": "01789714575",
         "email": "info@seidler-baumpflege.de",
-        "website": "www.seidler-baumpflege.de",
+        "website": null,
         "image": "images/1203783.png"
     },
     {
@@ -3888,7 +3972,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "www.seiler-klettertechniken.de",
+        "website": null,
         "image": "images/1203784.png"
     },
     {
@@ -3907,7 +3991,7 @@
         },
         "phone": "",
         "email": "kontakt@silvanus-baum.de",
-        "website": "http://www.baumkletterprofi.de",
+        "website": null,
         "image": "images/1203785.png"
     },
     {
@@ -3923,7 +4007,7 @@
         "coords": null,
         "phone": "08152-3189",
         "email": "info@dahoizknecht.de",
-        "website": "www.dahoizknecht.de",
+        "website": null,
         "image": "images/1203786.png"
     },
     {
@@ -3942,7 +4026,7 @@
         },
         "phone": "",
         "email": "max@rope-solutions.de",
-        "website": "http://rope-solutions.de",
+        "website": null,
         "image": "images/1203787.png"
     },
     {
@@ -3950,12 +4034,15 @@
         "name": "Hans Sohn",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Kelterstrasse 46/3",
+            "zip": "73733",
+            "city": "Esslingen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.7523626,
+            "lon": 9.2837722
+        },
         "phone": "",
         "email": "juan.sohn@googlemail.com",
         "website": null,
@@ -3977,7 +4064,7 @@
         },
         "phone": "05582-999911",
         "email": "",
-        "website": "www.der-baumsteiger.de",
+        "website": null,
         "image": "images/1203789.png"
     },
     {
@@ -4034,7 +4121,7 @@
         },
         "phone": "",
         "email": "info@wupperbaumdienst.de",
-        "website": "http://www.wupperbaumdienst.de/",
+        "website": null,
         "image": "images/1203792.png"
     },
     {
@@ -4042,12 +4129,15 @@
         "name": "Marc Andr\u00e9 St\u00f6ckle",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Tiefenweg 6",
+            "zip": "97900",
+            "city": "K\u00fclsheim",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 49.6722117,
+            "lon": 9.4978475
+        },
         "phone": "0160-94525724",
         "email": "m.a.stoeckle@web.de",
         "website": null,
@@ -4058,31 +4148,18 @@
         "name": "Jens Stohlmeyer",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Am Eichenpohl 44",
+            "zip": "32760",
+            "city": "Detmold",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 51.9099701,
+            "lon": 8.8891277
+        },
         "phone": "0170-2133966",
         "email": "info@baumpflege-stohlmeyer.de",
-        "website": "http://www.isa-arbor.de",
-        "image": null
-    },
-    {
-        "id": 1203795,
-        "name": "Hildegard St\u00f6teler",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "hildegard.stoeteler@stoeteler.com",
-        "website": "www.stoeteler.com",
+        "website": null,
         "image": null
     },
     {
@@ -4090,15 +4167,18 @@
         "name": "Bernd Strasser",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Alemannenweg 2",
+            "zip": "72532",
+            "city": "Gomadingen",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.3879929,
+            "lon": 9.4029885
+        },
         "phone": "",
         "email": "beddes@baumkletterteam.com",
-        "website": "http://www.baumkletterteam.com",
+        "website": null,
         "image": null
     },
     {
@@ -4106,15 +4186,18 @@
         "name": "Jan Henning Straten",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Sutthauser Str. 84",
+            "zip": "49080",
+            "city": "Osnabr\u00fcck",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.2588709,
+            "lon": 8.032732
+        },
         "phone": "",
         "email": "info@garten-straten.de",
-        "website": "www.arten-straten.de",
+        "website": null,
         "image": null
     },
     {
@@ -4122,15 +4205,18 @@
         "name": "Joachim Streek",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Karl-Marx-Str. 19",
+            "zip": "16321",
+            "city": "Bernau",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.6827493,
+            "lon": 13.5875483
+        },
         "phone": "0170-8278243",
         "email": "info@kletter-paule.de",
-        "website": "http://www.kletter-paule.de",
+        "website": null,
         "image": null
     },
     {
@@ -4138,12 +4224,15 @@
         "name": "Axel Strohof",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "John-F-Kennedy-Allee 74",
+            "zip": "38444",
+            "city": "Wolfsburg",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.3751428,
+            "lon": 10.7562196
+        },
         "phone": "0176-220083",
         "email": "ackymoto@web.de",
         "website": null,
@@ -4165,7 +4254,7 @@
         },
         "phone": "07181-6059838",
         "email": "info@blattwald.de",
-        "website": "http://www.hightree.de",
+        "website": null,
         "image": "images/1203800.png"
     },
     {
@@ -4173,35 +4262,19 @@
         "name": "Sebastian Sucker",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Holzheimerstr. 7",
+            "zip": "36727",
+            "city": "Niederaula",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.801656,
+            "lon": 9.6047302
+        },
         "phone": "0151-46658420",
         "email": "sebastian85climb@gmail.com",
         "website": null,
         "image": null
-    },
-    {
-        "id": 1203802,
-        "name": "Baumspezialisten GmbH K\u00e4rtner Theuerkauf",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Beim Kraftwerk 10",
-            "zip": "82065",
-            "city": "Baierbrunn",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 48.0096019,
-            "lon": 11.4722196
-        },
-        "phone": "089-904214560",
-        "email": "info@baumspezialisten.de",
-        "website": "http://www.baumpflege-muenchen.de",
-        "image": "images/1203802.png"
     },
     {
         "id": 1203803,
@@ -4216,7 +4289,7 @@
         "coords": null,
         "phone": "04121-21514",
         "email": "",
-        "website": "www.baumpflege-elmshorn.de",
+        "website": null,
         "image": "images/1203803.png"
     },
     {
@@ -4235,7 +4308,7 @@
         },
         "phone": "05482-9290400",
         "email": "info@gruener-zweig.de",
-        "website": "http://www.gruener-zweig-baumpflege.de",
+        "website": null,
         "image": "images/1203804.png"
     },
     {
@@ -4273,7 +4346,7 @@
         },
         "phone": "05454-180249",
         "email": "unger@eichhorn-baumpflege.de",
-        "website": "http://www.eichhorn-baumpflege.de",
+        "website": null,
         "image": "images/1203806.png"
     },
     {
@@ -4292,7 +4365,7 @@
         },
         "phone": "030-6036018",
         "email": "info@bdu-gmbh.de",
-        "website": "http://www.bdu-gmbh.de",
+        "website": null,
         "image": "images/1203807.png"
     },
     {
@@ -4311,7 +4384,7 @@
         },
         "phone": "08161-9892554",
         "email": "info@baumexperten.de",
-        "website": "http://www.baumexperten.de",
+        "website": null,
         "image": "images/1203808.png"
     },
     {
@@ -4330,7 +4403,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "www.idea-botanica.de",
+        "website": null,
         "image": "images/1203809.png"
     },
     {
@@ -4346,7 +4419,7 @@
         "coords": null,
         "phone": "07826-9662525",
         "email": "info@baumpflege-volk.de",
-        "website": "http://www.baumpflege-volk.de",
+        "website": null,
         "image": "images/1203810.png"
     },
     {
@@ -4365,7 +4438,7 @@
         },
         "phone": "",
         "email": "info@baumpflege-voss.de",
-        "website": "www.baumpflege-voss.de",
+        "website": null,
         "image": "images/1203811.png"
     },
     {
@@ -4373,15 +4446,18 @@
         "name": "Keno Walker",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Pinkenburger Str. 19E",
+            "zip": "30655",
+            "city": "Hannover",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 52.4011904,
+            "lon": 9.8036212
+        },
         "phone": "0172-5147869",
         "email": "info@baumfriese.de",
-        "website": "www.baumfriese.de",
+        "website": null,
         "image": null
     },
     {
@@ -4389,12 +4465,15 @@
         "name": "Bj\u00f6rn Walter",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Torweg 10",
+            "zip": "74382",
+            "city": "Neckarwestheim",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 49.0409649,
+            "lon": 9.2081332
+        },
         "phone": "",
         "email": "bjoern-walter-nwh@gmx.de",
         "website": null,
@@ -4405,12 +4484,15 @@
         "name": "Franck Wargnier",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Wickenweg 58",
+            "zip": "60433",
+            "city": "Frankfurt",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 50.162253,
+            "lon": 8.6720038
+        },
         "phone": "",
         "email": "Franckwargnier@aol.com",
         "website": null,
@@ -4421,7 +4503,7 @@
         "name": "Baumpflegering",
         "type": "Firmenmitglied",
         "address": {
-            "street": " Petrosilienstr. 8, ",
+            "street": "Petrosilienstr. 8,",
             "zip": "37133",
             "city": "Friedland",
             "country": "Deutschland"
@@ -4432,7 +4514,7 @@
         },
         "phone": "",
         "email": "info@fafa-baumpflege.eu",
-        "website": "http://www.fafa-baumpflege.de",
+        "website": null,
         "image": "images/1203815.png"
     },
     {
@@ -4451,7 +4533,7 @@
         },
         "phone": "",
         "email": "",
-        "website": "www.faktor-baum.de",
+        "website": null,
         "image": "images/1203816.png"
     },
     {
@@ -4459,15 +4541,18 @@
         "name": "Stefan Weingran",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "St.-Johanniskoog-Ring 22",
+            "zip": "25836",
+            "city": "Poppenb\u00fcll",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 54.3609116,
+            "lon": 8.7615013
+        },
         "phone": "",
         "email": "info@arborkollektiv.de",
-        "website": "http://www.arborkollektiv.de",
+        "website": null,
         "image": null
     },
     {
@@ -4486,7 +4571,7 @@
         },
         "phone": "05257-935904",
         "email": "info@marco-weiss.de",
-        "website": "http://www.marco-weiss.de",
+        "website": null,
         "image": "images/1203818.png"
     },
     {
@@ -4532,12 +4617,15 @@
         "name": "Lothar Wessolly",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Nittelwaldstr. 22",
+            "zip": "70195",
+            "city": "Stuttgart",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 48.7856967,
+            "lon": 9.1243656
+        },
         "phone": "",
         "email": "BAUMSTATIK.SAG@t-online.de",
         "website": null,
@@ -4559,7 +4647,7 @@
         },
         "phone": "08442-958547",
         "email": "alan@baumpflege-whittaker.de",
-        "website": "http://www.baumpflege-whittaker.de",
+        "website": null,
         "image": "images/1203822.png"
     },
     {
@@ -4586,12 +4674,15 @@
         "name": "Lukas Winterer",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Koempelstra\u00dfe 23a",
+            "zip": "82340",
+            "city": "Feldafing",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 47.9418798,
+            "lon": 11.2983884
+        },
         "phone": "0176-72674339",
         "email": "lukas.winterer@web.de",
         "website": null,
@@ -4602,12 +4693,15 @@
         "name": "Georg-Friedrich Wittmann",
         "type": "Einzelmitglied",
         "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
+            "street": "Mallersricht 22",
+            "zip": "92637",
+            "city": "Weiden",
+            "country": "Deutschland"
         },
-        "coords": null,
+        "coords": {
+            "lat": 49.6747055,
+            "lon": 12.1710703
+        },
         "phone": "",
         "email": "baumpflege-wittmann@web.de",
         "website": null,
@@ -4648,7 +4742,7 @@
         },
         "phone": "",
         "email": "info@arbocare.de",
-        "website": "www.arbocare.de",
+        "website": null,
         "image": "images/1203827.png"
     },
     {
@@ -4677,7 +4771,7 @@
         "address": {
             "street": "Dudenhofer Str. 30",
             "zip": "67354",
-            "city": "R\u00f6merberg ",
+            "city": "R\u00f6merberg",
             "country": "Deutschland"
         },
         "coords": {
@@ -4707,25 +4801,6 @@
         "email": "baum-rode@posteo.de",
         "website": null,
         "image": "images/1203832.png"
-    },
-    {
-        "id": 1305095,
-        "name": "Ute Einhart-Rinn",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Hardtstr 24",
-            "zip": "69124",
-            "city": "Heidelberg",
-            "country": ""
-        },
-        "coords": {
-            "lat": 49.3764697,
-            "lon": 8.6420038
-        },
-        "phone": "",
-        "email": "ute.einhart@rinntech.com",
-        "website": null,
-        "image": null
     },
     {
         "id": 1305105,
@@ -4790,8 +4865,8 @@
         "type": "Einzelmitglied",
         "address": {
             "street": "Heinrich-Wieland-Stra\u00dfe 90",
-            "zip": "81735 ",
-            "city": "M\u00fcnchen ",
+            "zip": "81735",
+            "city": "M\u00fcnchen",
             "country": ""
         },
         "coords": {
@@ -4842,25 +4917,6 @@
         "image": null
     },
     {
-        "id": 1330573,
-        "name": "Malte Pontow",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Hammerm\u00fchle 6",
-            "zip": "49509",
-            "city": "Recke",
-            "country": ""
-        },
-        "coords": {
-            "lat": 52.3702697,
-            "lon": 7.7175072
-        },
-        "phone": "0176-212456703",
-        "email": "info@baumpflege-kleiber.de",
-        "website": null,
-        "image": null
-    },
-    {
         "id": 1330604,
         "name": "Lisa Schuchhardt",
         "type": "Einzelmitglied",
@@ -4887,7 +4943,7 @@
             "street": "Morchfeldstr 70",
             "zip": "68199",
             "city": "Mannheim",
-            "country": "Germany"
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 49.4541784,
@@ -4905,7 +4961,7 @@
         "address": {
             "street": "St\u00fcbeheide 130",
             "zip": "Hamburg, 22337",
-            "city": "Hamburg, ",
+            "city": "Hamburg,",
             "country": ""
         },
         "coords": {
@@ -5037,14 +5093,11 @@
         "type": "Einzelmitglied",
         "address": {
             "street": "Wachholderstr. 32",
-            "zip": "",
-            "city": "Panama City",
+            "zip": "40489",
+            "city": "D\u00fcsseldorf",
             "country": "Panama"
         },
-        "coords": {
-            "lat": 8.9714493,
-            "lon": -79.5341802
-        },
+        "coords": null,
         "phone": "0172-9511443",
         "email": "bart.panama@outlook.com",
         "website": null,
@@ -5115,7 +5168,7 @@
             "street": "St\u00fcbeheide 130",
             "zip": "22337",
             "city": "Hamburg",
-            "country": ""
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 53.6235437,
@@ -5153,7 +5206,7 @@
             "street": "Johannes-M\u00fcller-Str. 14",
             "zip": "56068",
             "city": "Koblenz",
-            "country": ""
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 50.3494613,
@@ -5265,7 +5318,7 @@
         "type": "Firmenmitglied",
         "address": {
             "street": "Junkerstra\u00dfe 5a",
-            "zip": " 29640 ",
+            "zip": "29640",
             "city": "Schneverdingen",
             "country": ""
         },
@@ -5324,7 +5377,7 @@
             "street": "Schnellstr. 26",
             "zip": "22765",
             "city": "Hamburg",
-            "country": ""
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 53.5540662,
@@ -5397,7 +5450,7 @@
         "name": "Andreas Rusch",
         "type": "Einzelmitglied",
         "address": {
-            "street": "\u00c4u\u00dfere M\u00fcnchener Str. 9, ",
+            "street": "\u00c4u\u00dfere M\u00fcnchener Str. 9,",
             "zip": "82515",
             "city": "Wolfratshausen",
             "country": ""
@@ -5469,101 +5522,6 @@
         "image": "images/1848555.png"
     },
     {
-        "id": 1881798,
-        "name": "Arborist Lucas",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Heilige Geeststraat 62",
-            "zip": "3000",
-            "city": "Leuven",
-            "country": ""
-        },
-        "coords": {
-            "lat": 50.8813615,
-            "lon": 4.7163883
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1881798.png"
-    },
-    {
-        "id": 1881805,
-        "name": "Mathias Gransow",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "L\u00fcbbestedter Str. 23",
-            "zip": "28217",
-            "city": "Bremen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 53.0961375,
-            "lon": 8.7763043
-        },
-        "phone": "01776324459",
-        "email": "info@kletterkonzepte.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 1881825,
-        "name": "Spycher Baumpflege GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Tromwil 4",
-            "zip": "3088",
-            "city": "Rueggisberg",
-            "country": "Schweiz"
-        },
-        "coords": {
-            "lat": 46.829501,
-            "lon": 7.4445887
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1881825.png"
-    },
-    {
-        "id": 1881844,
-        "name": "Luca Brighenti",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Via Papa Giovanni XXIII 31F",
-            "zip": "",
-            "city": "Besana in Brianza (MB)",
-            "country": "Italien"
-        },
-        "coords": {
-            "lat": 45.7025382,
-            "lon": 9.2895415
-        },
-        "phone": "3282856440",
-        "email": "luca.brighenti.b@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 1910755,
-        "name": "Arbor Ace",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "1 Whitemoor",
-            "zip": "LA29BN",
-            "city": "Abbeystead",
-            "country": "United Kingdom"
-        },
-        "coords": {
-            "lat": 53.9759871,
-            "lon": -2.6252456
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1910755.png"
-    },
-    {
         "id": 1910797,
         "name": "Maciej Chojnacki",
         "type": "Einzelmitglied",
@@ -5590,7 +5548,7 @@
             "street": "Lastropsweg 3",
             "zip": "20255",
             "city": "Hamburg",
-            "country": "Germany"
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 53.5786072,
@@ -5600,25 +5558,6 @@
         "email": "",
         "website": null,
         "image": "images/1910849.png"
-    },
-    {
-        "id": 1910870,
-        "name": "Baumbua Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Lindwurmstr 40",
-            "zip": "80337",
-            "city": "M\u00fcnchen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.1267528,
-            "lon": 11.5590355
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1910870.png"
     },
     {
         "id": 1910890,
@@ -5659,174 +5598,6 @@
         "image": "images/1910899.png"
     },
     {
-        "id": 1910908,
-        "name": "ATP Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Salinenweg 2",
-            "zip": "37081",
-            "city": "G\u00f6ttingen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.5323825,
-            "lon": 9.9038024
-        },
-        "phone": "",
-        "email": "info@atp-baum.de",
-        "website": null,
-        "image": "images/1910908.png"
-    },
-    {
-        "id": 1910910,
-        "name": "ATP Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Salinenweg 2",
-            "zip": "37081",
-            "city": "G\u00f6ttingen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.5323825,
-            "lon": 9.9038024
-        },
-        "phone": "",
-        "email": "info@atp-baum.de",
-        "website": null,
-        "image": "images/1910910.png"
-    },
-    {
-        "id": 1910919,
-        "name": "Baumpflege Vo\u00df",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "H\u00fcrsland 9",
-            "zip": "24536",
-            "city": "Neum\u00fcnster",
-            "country": ""
-        },
-        "coords": {
-            "lat": 54.1095625,
-            "lon": 9.9994595
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1910919.png"
-    },
-    {
-        "id": 1910920,
-        "name": "Baumpflege Vo\u00df",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Boksberg 9",
-            "zip": "24149",
-            "city": "Kiel",
-            "country": ""
-        },
-        "coords": {
-            "lat": 54.3321586,
-            "lon": 10.1883738
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1910920.png"
-    },
-    {
-        "id": 1910924,
-        "name": "Baumpflege Vo\u00df",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Olshausenstr.23",
-            "zip": "24118",
-            "city": "Kiel",
-            "country": ""
-        },
-        "coords": {
-            "lat": 54.3411946,
-            "lon": 10.1184346
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1910924.png"
-    },
-    {
-        "id": 1910926,
-        "name": "Baumpflege Vo\u00df",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Michelhofstr.6",
-            "zip": "24582",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1910926.png"
-    },
-    {
-        "id": 1911043,
-        "name": "Hanseatic Treework GmbH & Co.KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Arberger Heerstra\u00dfe 25",
-            "zip": "28307",
-            "city": "Bremen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 53.0349783,
-            "lon": 8.9331731
-        },
-        "phone": "",
-        "email": "info@die-kletterer.com",
-        "website": null,
-        "image": "images/1911043.png"
-    },
-    {
-        "id": 1911045,
-        "name": "Hanseatic Treework GmbH & Co.KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Arberger Heerstra\u00dfe 25",
-            "zip": "28307",
-            "city": "Bremen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 53.0349783,
-            "lon": 8.9331731
-        },
-        "phone": "",
-        "email": "info@die-kletterer.com",
-        "website": null,
-        "image": "images/1911045.png"
-    },
-    {
-        "id": 1911046,
-        "name": "Hanseatic Treework GmbH & Co.KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Arberger Heerstra\u00dfe 25",
-            "zip": "28307",
-            "city": "Bremen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 53.0349783,
-            "lon": 8.9331731
-        },
-        "phone": "",
-        "email": "info@die-kletterer.com",
-        "website": null,
-        "image": "images/1911046.png"
-    },
-    {
         "id": 1911055,
         "name": "Isaac Carbonell Lopez",
         "type": "Einzelmitglied",
@@ -5839,25 +5610,6 @@
         "coords": null,
         "phone": "03202 0034619981310",
         "email": "austritt_2023@keine-mail.local",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 1911475,
-        "name": "Albert Romero Fernando",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Via Valle Maria 84",
-            "zip": "12100",
-            "city": "Cueno",
-            "country": "Italien"
-        },
-        "coords": {
-            "lat": 45.4670448,
-            "lon": 9.1536997
-        },
-        "phone": "",
-        "email": "Fjar_86@hotmail.com",
         "website": null,
         "image": null
     },
@@ -5900,178 +5652,6 @@
         "image": "images/1911530.png"
     },
     {
-        "id": 1912030,
-        "name": "Hartill Tr\u00e4dexpert Ab",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "\u00d6vre tr\u00e4tte 635",
-            "zip": "47294",
-            "city": "Svanesund",
-            "country": ""
-        },
-        "coords": {
-            "lat": 58.1430369,
-            "lon": 11.8190628
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912030.png"
-    },
-    {
-        "id": 1912032,
-        "name": "Hartill Tr\u00e4dexpert Ab",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "\u00f6vre tr\u00e4tte 635",
-            "zip": "47294",
-            "city": "Svanesund",
-            "country": "Schweden"
-        },
-        "coords": {
-            "lat": 58.1430369,
-            "lon": 11.8190628
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912032.png"
-    },
-    {
-        "id": 1912077,
-        "name": "Arbor Wood Solutions",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "479 Chemin de Valbonnette",
-            "zip": "83590",
-            "city": "Gonfaron",
-            "country": ""
-        },
-        "coords": {
-            "lat": 43.3199051,
-            "lon": 6.2897851
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912077.png"
-    },
-    {
-        "id": 1912332,
-        "name": "Astwerk",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912332.png"
-    },
-    {
-        "id": 1912335,
-        "name": "Astwerk",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912335.png"
-    },
-    {
-        "id": 1912336,
-        "name": "Astwerk",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912336.png"
-    },
-    {
-        "id": 1912337,
-        "name": "Astwerk",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912337.png"
-    },
-    {
-        "id": 1912339,
-        "name": "Astwerk",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1912339.png"
-    },
-    {
-        "id": 1912689,
-        "name": "Ron Felix Tietz",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "ron@galabauron.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 1912735,
-        "name": "Ettore Longhi",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Loc. Turicchi 118",
-            "zip": "50060",
-            "city": "Firenze-Rufina",
-            "country": "Italien"
-        },
-        "coords": {
-            "lat": 43.8345317,
-            "lon": 11.5681979
-        },
-        "phone": "+393333404075",
-        "email": "ettorelonghi5@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
         "id": 1914372,
         "name": "Baumtechnik Weber",
         "type": "Firmenmitglied",
@@ -6089,22 +5669,6 @@
         "email": "info@baumtechnik-weber.de",
         "website": null,
         "image": "images/1914372.png"
-    },
-    {
-        "id": 1914373,
-        "name": "Hansch Baumtechnik",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1914373.png"
     },
     {
         "id": 1914544,
@@ -6126,25 +5690,6 @@
         "image": "images/1914544.png"
     },
     {
-        "id": 1914561,
-        "name": "Baumdienst Simon Meijer",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Wiemannstr.18",
-            "zip": "32768",
-            "city": "Detmold",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.936284,
-            "lon": 8.8791526
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1914561.png"
-    },
-    {
         "id": 1914595,
         "name": "Baumbua Baumpflege",
         "type": "Firmenmitglied",
@@ -6164,83 +5709,13 @@
         "image": "images/1914595.png"
     },
     {
-        "id": 1918191,
-        "name": "Lucas Meijer",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Wiemannstr.18",
-            "zip": "32760",
-            "city": "Detmold",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.9099701,
-            "lon": 8.8891277
-        },
-        "phone": "0157-78843478",
-        "email": "lucas.meijer@gmx.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 1918207,
-        "name": "grounds & buildings Freiraum- und Sicherheitsmanagement GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Ludwig-Erhard-Stra\u00dfe 2",
-            "zip": "65760",
-            "city": " Eschborn",
-            "country": ""
-        },
-        "coords": {
-            "lat": 50.1504737,
-            "lon": 8.5607767
-        },
-        "phone": "",
-        "email": "post@grounds-buildings.de",
-        "website": null,
-        "image": "images/1918207.png"
-    },
-    {
-        "id": 1923833,
-        "name": "Baum-Welt",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1923833.png"
-    },
-    {
-        "id": 1923834,
-        "name": "Baum-Welt",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1923834.png"
-    },
-    {
         "id": 1923844,
         "name": "Baumpflege Plesch",
         "type": "Firmenmitglied",
         "address": {
             "street": "Obernstra\u00dfe 17",
             "zip": "31688",
-            "city": " Nienst\u00e4dt",
+            "city": "Nienst\u00e4dt",
             "country": ""
         },
         "coords": {
@@ -6251,41 +5726,6 @@
         "email": "",
         "website": null,
         "image": "images/1923844.png"
-    },
-    {
-        "id": 1930450,
-        "name": "Baum Braun",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1930450.png"
-    },
-    {
-        "id": 1930470,
-        "name": "BONOBOOM",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Temelbroekstradt 1",
-            "zip": "9660",
-            "city": "Brakel",
-            "country": "Belgien"
-        },
-        "coords": {
-            "lat": 50.797737,
-            "lon": 3.7448915
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/1930470.png"
     },
     {
         "id": 1977213,
@@ -6345,54 +5785,6 @@
         "image": null
     },
     {
-        "id": 2117783,
-        "name": "Urs Trinkner",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "u.trinkner@gmx.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117784,
-        "name": "Hannes Janasik",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "Hannes.janasik@gmx.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117785,
-        "name": "Christoph M\u00fcller",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "info@dbaumpfleger.de",
-        "website": null,
-        "image": null
-    },
-    {
         "id": 2117786,
         "name": "Dorothea Becker",
         "type": "Einzelmitglied",
@@ -6408,293 +5800,6 @@
         },
         "phone": "+49-1751102556",
         "email": "becker.doro@t-online.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117787,
-        "name": "Michael Janke",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "michi.janke@gmx.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117790,
-        "name": "Nino Tinella",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "nino.forstwart@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117794,
-        "name": "Baumpflege B\u00fchler",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Allmendschwandstr.40",
-            "zip": "3657",
-            "city": "Schwanden",
-            "country": "Schweiz"
-        },
-        "coords": {
-            "lat": 46.9955628,
-            "lon": 9.0713622
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/2117794.png"
-    },
-    {
-        "id": 2117795,
-        "name": "George R\u00fcckner",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "george.rueckner@hotmail.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117817,
-        "name": "Daniel Grunwald",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "daniel-grunwald@hotmail.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117820,
-        "name": "Baumkultur GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Eisenbahnstra\u00dfe 16",
-            "zip": "79379",
-            "city": "M\u00fcllheim i.M.",
-            "country": ""
-        },
-        "coords": {
-            "lat": 47.8017737,
-            "lon": 7.6217116
-        },
-        "phone": "",
-        "email": "info@baumkultur.de",
-        "website": null,
-        "image": "images/2117820.png"
-    },
-    {
-        "id": 2117821,
-        "name": "Pfefferer Baumkultur GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Eisenbahnstr. 16",
-            "zip": "79379",
-            "city": "M\u00fcllheim im Markgr\u00e4flerland",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 47.8105324,
-            "lon": 7.6376863
-        },
-        "phone": "",
-        "email": "info@baumkultur.de",
-        "website": null,
-        "image": "images/2117821.png"
-    },
-    {
-        "id": 2117826,
-        "name": "Kyra Joel Kindl",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "info@schmid-baumpflege.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117830,
-        "name": "Maximilian Runge",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Sallerstr. 38A",
-            "zip": "82418",
-            "city": "Murnau am Staffelsee",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 47.6744734,
-            "lon": 11.1954319
-        },
-        "phone": "0152-22830194",
-        "email": "maxi-runge@gmx.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117832,
-        "name": "Martin M\u00fcller",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "mms7575@web.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117835,
-        "name": "Julian Fesser",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Im Kratten 1",
-            "zip": "79790",
-            "city": "K\u00fcssaberg",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 47.5980862,
-            "lon": 8.346372
-        },
-        "phone": "+4915206156782",
-        "email": "nadja.fesser@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117838,
-        "name": "Christian Wagner",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "info@baumwart-regensburg.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117843,
-        "name": "Gavin Trevelyan",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "gavin@roots-stuttgart.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117846,
-        "name": "Nick Fr\u00f6hlich",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "19nick.froehlich99@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117850,
-        "name": "Michael Heimerdinger",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "info@baumpflege-heimerdinger.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117899,
-        "name": "Thorben Franke",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "info@baumpflege-freund.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2117906,
-        "name": "Felix M\u00fcller",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "muellerfelix@posteo.de",
         "website": null,
         "image": null
     },
@@ -6763,11 +5868,11 @@
             "street": "Osserstr. 36",
             "zip": "93086",
             "city": "W\u00f6rth an der Donau",
-            "country": ""
+            "country": "Deutschland"
         },
         "coords": {
-            "lat": 49.0012229,
-            "lon": 12.4041615
+            "lat": 49.0095879,
+            "lon": 12.4414459
         },
         "phone": "+4994829386122",
         "email": "",
@@ -6780,7 +5885,7 @@
         "type": "Firmenmitglied",
         "address": {
             "street": "An der Mosebecke 9",
-            "zip": "32758 ",
+            "zip": "32758",
             "city": "Mosebeck - Detmold",
             "country": ""
         },
@@ -6792,444 +5897,6 @@
         "email": "",
         "website": null,
         "image": "images/2444156.png"
-    },
-    {
-        "id": 2444361,
-        "name": "Oliver Arvesson \u00d8ien",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Skallmeja H\u00e4sthalla 4",
-            "zip": "53295",
-            "city": "Skara",
-            "country": "Schweden"
-        },
-        "coords": null,
-        "phone": "",
-        "email": "oliver@arborealis.se",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2444394,
-        "name": "Mikkel Praem",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Sonderboulevard 182g",
-            "zip": "P.O: BOX 5000",
-            "city": "Odense C",
-            "country": "D\u00e4nemark"
-        },
-        "coords": null,
-        "phone": "",
-        "email": "Mikkelpraem@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2448586,
-        "name": "Daniel Holter-Hovind",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Hovinveien 1C",
-            "zip": "",
-            "city": "Fetsund",
-            "country": "Norwegen"
-        },
-        "coords": {
-            "lat": 59.9270625,
-            "lon": 11.1623481
-        },
-        "phone": "",
-        "email": "daniel.h-h@live.no",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2448660,
-        "name": "Arjuna  Kendziersky",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "43992",
-            "city": "Onsala",
-            "country": "Schweden"
-        },
-        "coords": {
-            "lat": 57.4272188,
-            "lon": 12.0302702
-        },
-        "phone": "",
-        "email": "arjuna.kendziersky@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2499243,
-        "name": "Harrie Verbeek ",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Rooise Straat",
-            "zip": "5581VN",
-            "city": "Waaire",
-            "country": "Niederlande"
-        },
-        "coords": null,
-        "phone": "",
-        "email": "arborarohaboombeheer@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2499272,
-        "name": "Dennis Nies",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Sint Janlaan 17",
-            "zip": "6093GL",
-            "city": "Heythuysen",
-            "country": "Niederlande"
-        },
-        "coords": {
-            "lat": 51.2533911,
-            "lon": 5.90315
-        },
-        "phone": "+31 6 58857489",
-        "email": "dnboomverzorging@outlook.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2499282,
-        "name": "BK Boomverzorging",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Brink Straat 5a",
-            "zip": "3742CK",
-            "city": "Baarn",
-            "country": "Niederlande"
-        },
-        "coords": {
-            "lat": 52.2104578,
-            "lon": 5.2933905
-        },
-        "phone": "",
-        "email": "bkboomverzorging@outlook.com",
-        "website": null,
-        "image": "images/2499282.png"
-    },
-    {
-        "id": 2504676,
-        "name": "Remi Thuilliez",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "15 rue des Danes",
-            "zip": "59144",
-            "city": "Jenlain",
-            "country": "Frankreich"
-        },
-        "coords": {
-            "lat": 50.3127734,
-            "lon": 3.6288613
-        },
-        "phone": "0623135435",
-        "email": "tecknitail@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2504686,
-        "name": "Jannis  Behrendt",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Friller Str.4a",
-            "zip": "31675",
-            "city": "B\u00fcckeburg",
-            "country": ""
-        },
-        "coords": {
-            "lat": 52.2611037,
-            "lon": 9.0488959
-        },
-        "phone": "015155833914",
-        "email": "kletterbaern@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2511023,
-        "name": "Marco Dummler",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Austra\u00dfe 39",
-            "zip": "76327",
-            "city": "Pfinztal",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.9918661,
-            "lon": 8.5553158
-        },
-        "phone": "",
-        "email": "m.a.dummler@outlook.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2515634,
-        "name": "ATP Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Salinenweg 2",
-            "zip": "37081",
-            "city": "G\u00f6ttingen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.5323825,
-            "lon": 9.9038024
-        },
-        "phone": "",
-        "email": "info@atp-baum.de",
-        "website": null,
-        "image": "images/2515634.png"
-    },
-    {
-        "id": 2515640,
-        "name": "ATP Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Salinenweg 2",
-            "zip": "37081",
-            "city": "G\u00f6ttingen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.5323825,
-            "lon": 9.9038024
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/2515640.png"
-    },
-    {
-        "id": 2524602,
-        "name": "Christian Koning",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Bernstrasse 88",
-            "zip": "3613",
-            "city": "Steffisburg",
-            "country": "Schweiz"
-        },
-        "coords": {
-            "lat": 46.7709231,
-            "lon": 7.616127
-        },
-        "phone": "",
-        "email": "koning.christian@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2525342,
-        "name": "Adri\u00e1n Zmitko",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Frana Krana 843/8",
-            "zip": "96681",
-            "city": "Zarnovica",
-            "country": "Slovakei"
-        },
-        "coords": null,
-        "phone": "+421917884717",
-        "email": "info@stromyaz.sk",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2532139,
-        "name": "Zachariah  Rottschulte",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "54 Camino Dela Fuente",
-            "zip": "29130",
-            "city": "Al Hurfn dela Torre",
-            "country": "Spanien"
-        },
-        "coords": null,
-        "phone": "+4917667491804",
-        "email": "zak.hevness@hotmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2532167,
-        "name": "David Sedlak",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Zborna 48",
-            "zip": "58601",
-            "city": "Jihlava",
-            "country": "Tschechei"
-        },
-        "coords": {
-            "lat": 49.4023787,
-            "lon": 15.5852381
-        },
-        "phone": "+420602183844",
-        "email": "david.sedlak@atlas.cz",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2532189,
-        "name": "Sarahann  Quinnlan",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Clashwilliam Gowron",
-            "zip": "R95N977",
-            "city": "Kilkenny",
-            "country": "Irland"
-        },
-        "coords": null,
-        "phone": "+353851354321",
-        "email": "sarahannquinlan94@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2537619,
-        "name": "Florian Hailmann",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Hochleiten 8a ",
-            "zip": "82544 ",
-            "city": "Egling",
-            "country": ""
-        },
-        "coords": {
-            "lat": 47.9230899,
-            "lon": 11.5086415
-        },
-        "phone": "0176-41608924",
-        "email": "flo.hailmann@web.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2537662,
-        "name": "Martin Oertel",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Kochstra\u00dfe 62",
-            "zip": "04275",
-            "city": "Leipzig",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.3195178,
-            "lon": 12.3711983
-        },
-        "phone": "01622133990",
-        "email": "service@baumpfleger-oertel.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2551668,
-        "name": "Klaas Tufto",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Barenberg 14",
-            "zip": "54316",
-            "city": "Pluwig",
-            "country": ""
-        },
-        "coords": {
-            "lat": 49.6901692,
-            "lon": 6.7136463
-        },
-        "phone": "01794357188",
-        "email": "ktufto@protonmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 2551898,
-        "name": "M&M Baumpflege Neubert & RossGbR",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Friedrich-Rumpf-Str. 3",
-            "zip": "14641",
-            "city": "Wustermark",
-            "country": ""
-        },
-        "coords": {
-            "lat": 52.551909,
-            "lon": 12.9385373
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/2551898.png"
-    },
-    {
-        "id": 2564771,
-        "name": "Hanseatic Treework GmbH & Co.KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Arberger Heerstra\u00dfe 25",
-            "zip": "28307",
-            "city": "Bremen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 53.0349783,
-            "lon": 8.9331731
-        },
-        "phone": "",
-        "email": "info@die-kletterer.com",
-        "website": null,
-        "image": "images/2564771.png"
-    },
-    {
-        "id": 2564845,
-        "name": "Hanseatic Treework GmbH & Co.KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Arberger Heerstra\u00dfe 25",
-            "zip": "28307",
-            "city": "Bremen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 53.0349783,
-            "lon": 8.9331731
-        },
-        "phone": "",
-        "email": "info@die-kletterer.com",
-        "website": null,
-        "image": "images/2564845.png"
-    },
-    {
-        "id": 2564872,
-        "name": "Banks Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Charlotte-von-Stein-Str. 1",
-            "zip": "53179",
-            "city": "Bonn",
-            "country": ""
-        },
-        "coords": {
-            "lat": 50.6649149,
-            "lon": 7.1832306
-        },
-        "phone": "",
-        "email": "rechnung@banks-baumpflege.de",
-        "website": null,
-        "image": "images/2564872.png"
     },
     {
         "id": 2593666,
@@ -7251,51 +5918,13 @@
         "image": "images/2593666.png"
     },
     {
-        "id": 2593677,
-        "name": "ATP Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Salinenweg 2",
-            "zip": "37081",
-            "city": "G\u00f6ttingen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.5323825,
-            "lon": 9.9038024
-        },
-        "phone": "",
-        "email": "info@atp-baum.de",
-        "website": null,
-        "image": "images/2593677.png"
-    },
-    {
-        "id": 2593702,
-        "name": "Pfefferer Baumkultur GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Eisenbahnstr. 16",
-            "zip": "79379",
-            "city": "M\u00fcllheim im Markgr\u00e4flerland",
-            "country": ""
-        },
-        "coords": {
-            "lat": 47.8099613,
-            "lon": 7.6257276
-        },
-        "phone": "07631-13057",
-        "email": "info@baumkultur.de",
-        "website": null,
-        "image": "images/2593702.png"
-    },
-    {
         "id": 2595761,
         "name": "grounds & buildings Freiraum- und Sicherheitsmanagement GmbH",
         "type": "Firmenmitglied",
         "address": {
             "street": "Ludwig-Erhard-Stra\u00dfe 2",
             "zip": "65760",
-            "city": " Eschborn",
+            "city": "Eschborn",
             "country": ""
         },
         "coords": {
@@ -7422,177 +6051,6 @@
         "image": "images/3022235.png"
     },
     {
-        "id": 3076675,
-        "name": "Grube KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "H\u00fctzeler Damm 38",
-            "zip": "29646",
-            "city": "Bispingen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 53.0823032,
-            "lon": 9.996472
-        },
-        "phone": "",
-        "email": "info@grube.de",
-        "website": null,
-        "image": "images/3076675.png"
-    },
-    {
-        "id": 3076717,
-        "name": "Husqvarna Deutschland GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Hans-Lorenser-Stra\u00dfe 40",
-            "zip": "89079",
-            "city": "Ulm",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.3487551,
-            "lon": 9.9319114
-        },
-        "phone": "",
-        "email": "invoice.de@husqvarnagroup.com",
-        "website": null,
-        "image": "images/3076717.png"
-    },
-    {
-        "id": 3077670,
-        "name": "Teufelberger Fiber Rope GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Vogelweiderstr. 50",
-            "zip": "4600",
-            "city": "Wels",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.1649487,
-            "lon": 14.011729
-        },
-        "phone": "",
-        "email": "andreas.viechtbauer@teufelberger.com",
-        "website": null,
-        "image": "images/3077670.png"
-    },
-    {
-        "id": 3077676,
-        "name": "Freeworker GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Gutenbergstr. 11",
-            "zip": "82205",
-            "city": "Gilching",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.111586,
-            "lon": 11.27146
-        },
-        "phone": "",
-        "email": "j.bilharz@freeworker.de",
-        "website": null,
-        "image": "images/3077676.png"
-    },
-    {
-        "id": 3077689,
-        "name": "EDELRID GmbH & Co. KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Achener Weg 66",
-            "zip": "88316",
-            "city": "Isny im Allg\u00e4u",
-            "country": ""
-        },
-        "coords": {
-            "lat": 47.7031269,
-            "lon": 10.0697593
-        },
-        "phone": "",
-        "email": "i.dassdorf@edelrid.de",
-        "website": null,
-        "image": "images/3077689.png"
-    },
-    {
-        "id": 3077696,
-        "name": "Petzl Deutschland GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "\u00c4u\u00dfere Kreuz\u00e4cker 3",
-            "zip": "82395",
-            "city": "Obers\u00f6chering",
-            "country": ""
-        },
-        "coords": {
-            "lat": 47.7381272,
-            "lon": 11.219643
-        },
-        "phone": "",
-        "email": "doezkol@petzl.com",
-        "website": null,
-        "image": "images/3077696.png"
-    },
-    {
-        "id": 3077697,
-        "name": "arboa e.K. tree safety",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Dornhaldenstr. 5",
-            "zip": "70199",
-            "city": "Stuttgart",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.757302,
-            "lon": 9.1454881
-        },
-        "phone": "",
-        "email": "boa@arboa.com",
-        "website": null,
-        "image": "images/3077697.png"
-    },
-    {
-        "id": 3077701,
-        "name": "Friedrich Scharr KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Liebknechtstr. 50",
-            "zip": "70565",
-            "city": "Stuttgart",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.7177098,
-            "lon": 9.1107724
-        },
-        "phone": "",
-        "email": "R.Illenberger@scharr-fuels.de",
-        "website": null,
-        "image": "images/3077701.png"
-    },
-    {
-        "id": 3077724,
-        "name": "COURANT SAS",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "36 boulevard de l'industrie",
-            "zip": "49000",
-            "city": "Angers",
-            "country": ""
-        },
-        "coords": {
-            "lat": 47.4917738,
-            "lon": -0.5444996
-        },
-        "phone": "",
-        "email": "hg@mycourant.com",
-        "website": null,
-        "image": "images/3077724.png"
-    },
-    {
         "id": 3086201,
         "name": "Baumpflege Model",
         "type": "Firmenmitglied",
@@ -7610,22 +6068,6 @@
         "email": "info@baumpflege-model.de",
         "website": null,
         "image": "images/3086201.png"
-    },
-    {
-        "id": 3129991,
-        "name": "Philipp Robeck",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "webmaster@isa-arbor.de",
-        "website": null,
-        "image": null
     },
     {
         "id": 3261997,
@@ -7673,7 +6115,7 @@
             "street": "20 Rue Eveche",
             "zip": "13002",
             "city": "Marseille",
-            "country": "France"
+            "country": "Frankreich"
         },
         "coords": {
             "lat": 43.3043412,
@@ -7692,67 +6134,13 @@
             "street": "",
             "zip": "",
             "city": "",
-            "country": "D"
+            "country": "Deutschland"
         },
         "coords": null,
         "phone": "",
         "email": "phill@gmx.li",
         "website": null,
         "image": null
-    },
-    {
-        "id": 3327943,
-        "name": "Dan deVries",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Peel 37",
-            "zip": "",
-            "city": "Dronten",
-            "country": "Netherlands"
-        },
-        "coords": {
-            "lat": 52.5236608,
-            "lon": 5.7160381
-        },
-        "phone": "",
-        "email": "daandevriesu2@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3327959,
-        "name": "Harm Steltenpool",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Bronsweg 35",
-            "zip": "Lelystad",
-            "city": "",
-            "country": "Netherlands"
-        },
-        "coords": null,
-        "phone": "",
-        "email": "h.p.steltenpool@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3332644,
-        "name": "Der Baumbraun",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Windhof 1",
-            "zip": "69234",
-            "city": "Dielheim",
-            "country": ""
-        },
-        "coords": {
-            "lat": 49.2824981,
-            "lon": 8.7351709
-        },
-        "phone": "0 62 22 / 94 80 700",
-        "email": "info@derbaumbraun.de",
-        "website": null,
-        "image": "images/3332644.png"
     },
     {
         "id": 3347908,
@@ -7831,114 +6219,6 @@
         "image": "images/3362812.png"
     },
     {
-        "id": 3373547,
-        "name": "Rene Wanderer",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Raiffeisenstr. 27",
-            "zip": "89407",
-            "city": "Dillingen an der Donau",
-            "country": ""
-        },
-        "coords": {
-            "lat": 48.577185,
-            "lon": 10.4943532
-        },
-        "phone": "0172-5894864",
-        "email": "info@baumkraxler.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3373575,
-        "name": "Bont Hillebrand",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Zenvelderweg 17",
-            "zip": "7481 SH",
-            "city": "Haaksbergen",
-            "country": "Netherland"
-        },
-        "coords": null,
-        "phone": "0031623844054",
-        "email": "h.boomonderhoud@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3373582,
-        "name": "Guus Gesink",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Lepenstraat 16",
-            "zip": "7151 WP",
-            "city": "Eibergen",
-            "country": "Netherland"
-        },
-        "coords": null,
-        "phone": "0031646752603",
-        "email": "ggesink@hotmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3373595,
-        "name": "Esteban Fern\u00e1ndez Iba\u00f1ez",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Plaza de Europa 1, Portal 1, Piso 2, Casa 203",
-            "zip": "28891",
-            "city": "Madrid",
-            "country": "Espana"
-        },
-        "coords": {
-            "lat": 40.3675879,
-            "lon": -3.4865639
-        },
-        "phone": "635047265",
-        "email": "estebanferi85@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3373604,
-        "name": "Dolores Santos Romero",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Av Pablo Neruda N\u00ba 100, Portal 7, 3\u00baA",
-            "zip": "28018",
-            "city": "Madrid",
-            "country": "Espana"
-        },
-        "coords": {
-            "lat": 40.4237276,
-            "lon": -3.6899043
-        },
-        "phone": "646617856",
-        "email": "loli200069@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3373610,
-        "name": "Gabriel Gall",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Oberbaselblick 43",
-            "zip": "79594",
-            "city": "Inzlingen",
-            "country": ""
-        },
-        "coords": {
-            "lat": 47.5887631,
-            "lon": 7.6869534
-        },
-        "phone": "0177-6173880",
-        "email": "gabrielgall@gmx.de",
-        "website": null,
-        "image": null
-    },
-    {
         "id": 3384920,
         "name": "Baumbotschafter",
         "type": "Firmenmitglied",
@@ -7956,25 +6236,6 @@
         "email": "",
         "website": null,
         "image": "images/3384920.png"
-    },
-    {
-        "id": 3385766,
-        "name": "Jayden Haycraft",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Am Wiesenhang 12",
-            "zip": "54516",
-            "city": "Wittich",
-            "country": ""
-        },
-        "coords": {
-            "lat": 51.9245888,
-            "lon": 7.5766562
-        },
-        "phone": "",
-        "email": "jaydenhaycraft@gmail.com",
-        "website": null,
-        "image": null
     },
     {
         "id": 3390594,
@@ -8034,73 +6295,6 @@
         "image": null
     },
     {
-        "id": 3403648,
-        "name": "Anders Vinther",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Funkevej 9",
-            "zip": "3400",
-            "city": "Hilleroed",
-            "country": "D\u00e4nemark"
-        },
-        "coords": {
-            "lat": 55.9285735,
-            "lon": 12.3063909
-        },
-        "phone": "",
-        "email": "Anders.vinther93@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3408802,
-        "name": "Klaus Freya",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Schaapsbrug",
-            "zip": "",
-            "city": "Heibloem",
-            "country": "Netherland"
-        },
-        "coords": null,
-        "phone": "",
-        "email": "klausfreya01@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3419448,
-        "name": "Hagen Baumpflege GmbH & Co. KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "An der Steinau 34",
-            "zip": "21493",
-            "city": "Elmenhorst / Sahms",
-            "country": "Deutschland"
-        },
-        "coords": null,
-        "phone": "04151-898633",
-        "email": "info@hagen-baumpflege.de",
-        "website": null,
-        "image": "images/3419448.png"
-    },
-    {
-        "id": 3419463,
-        "name": "Hagen Baumpflege GmbH & Co. KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "An der Steinau 34",
-            "zip": "21493",
-            "city": "Elmenhorst / Sahms",
-            "country": "Deutschland"
-        },
-        "coords": null,
-        "phone": "04151-898633",
-        "email": "info@hagen-baumpflege.de",
-        "website": null,
-        "image": "images/3419463.png"
-    },
-    {
         "id": 3419632,
         "name": "Tom Treiber",
         "type": "Einzelmitglied",
@@ -8115,228 +6309,6 @@
         "email": "Tom.Treiber.SKT@web.de",
         "website": null,
         "image": null
-    },
-    {
-        "id": 3419779,
-        "name": "Jan-Mathis Bard",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "Zum alten Feld 44",
-            "zip": "63679",
-            "city": "Schotten",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 50.4870023,
-            "lon": 9.1618405
-        },
-        "phone": "0176-30792999",
-        "email": "baumpflege-vogelsberg@t-online.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3419809,
-        "name": "Florian Maitre",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "117 IMP des Nauves",
-            "zip": "16730",
-            "city": "Les Artigues de Lussac",
-            "country": "France"
-        },
-        "coords": {
-            "lat": 44.9706388,
-            "lon": -0.1398679
-        },
-        "phone": "+33-770227823",
-        "email": "maitrise.elagage@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3420052,
-        "name": "Pfefferer Baumkultur GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Eisenbahnstr. 16",
-            "zip": "79379",
-            "city": "M\u00fcllheim im Markgr\u00e4flerland",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 47.8105324,
-            "lon": 7.6376863
-        },
-        "phone": "",
-        "email": "info@baumkultur.de",
-        "website": null,
-        "image": "images/3420052.png"
-    },
-    {
-        "id": 3420059,
-        "name": "Pfefferer Baumkultur GmbH",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Eisenbahnstr. 16",
-            "zip": "79379",
-            "city": "M\u00fcllheim im Markgr\u00e4flerland",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 47.8105324,
-            "lon": 7.6376863
-        },
-        "phone": "",
-        "email": "info@baumkultur.de",
-        "website": null,
-        "image": "images/3420059.png"
-    },
-    {
-        "id": 3420072,
-        "name": "Der Baum Braun GmbH & Co KG.",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Windhof 1",
-            "zip": "69234",
-            "city": "Dielheim",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 49.2871662,
-            "lon": 8.7411941
-        },
-        "phone": "",
-        "email": "info@derbaumbraun.de",
-        "website": null,
-        "image": "images/3420072.png"
-    },
-    {
-        "id": 3420429,
-        "name": "R\u00e9my Penin",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "3 rue des gabares",
-            "zip": "33640",
-            "city": "BEAUTIRAN",
-            "country": "France"
-        },
-        "coords": {
-            "lat": 44.7044407,
-            "lon": -0.4511393
-        },
-        "phone": "+33 630811726",
-        "email": "remy6471@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3420498,
-        "name": "Fletcher Harper",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "324 white street",
-            "zip": "35901",
-            "city": "Gadsden, AL",
-            "country": "United States"
-        },
-        "coords": {
-            "lat": 34.0161321,
-            "lon": -85.9859318
-        },
-        "phone": "001-256-485-8750",
-        "email": "harperstreeservicegadsden@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3420653,
-        "name": "Aur\u00e9lien Santos-Lisboa",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "3 rue du golf   Parc Innolin",
-            "zip": "33700",
-            "city": "Merignac",
-            "country": "France"
-        },
-        "coords": {
-            "lat": 44.8313054,
-            "lon": -0.6794484
-        },
-        "phone": "",
-        "email": "arb.aure.elagage@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3422294,
-        "name": "Arboreal-Baumpflege",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/3422294.png"
-    },
-    {
-        "id": 3422298,
-        "name": "Jonathan Dommangeau",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "404 route de la prte de france",
-            "zip": "39220",
-            "city": "Les Rousses",
-            "country": "France"
-        },
-        "coords": {
-            "lat": 46.4873057,
-            "lon": 6.0657757
-        },
-        "phone": "",
-        "email": "dommangeaujonathan@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3424964,
-        "name": "Hugo Aveline",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "435 rue du bas berri",
-            "zip": "79230",
-            "city": "St Martin de bernegoue",
-            "country": ""
-        },
-        "coords": {
-            "lat": 46.2374047,
-            "lon": -0.3480075
-        },
-        "phone": "0617103157",
-        "email": "haveline9@gmail.com",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 3425043,
-        "name": "Baumbotschafter",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/3425043.png"
     },
     {
         "id": 3430635,
@@ -8422,7 +6394,7 @@
             "street": "Taunusstra\u00dfe 27",
             "zip": "61381",
             "city": "Friedrichsdorf",
-            "country": "Germany"
+            "country": "Deutschland"
         },
         "coords": {
             "lat": 50.261042,
@@ -8638,60 +6610,6 @@
         "email": "",
         "website": null,
         "image": "images/5698275.png"
-    },
-    {
-        "id": 5699673,
-        "name": "Baumpflege KilleSchnibbelt",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Am Stadion 1",
-            "zip": "44791",
-            "city": "Bochum",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 51.4900059,
-            "lon": 7.2484252
-        },
-        "phone": "",
-        "email": "",
-        "website": null,
-        "image": "images/5699673.png"
-    },
-    {
-        "id": 5718855,
-        "name": "Florian Baronyai",
-        "type": "Einzelmitglied",
-        "address": {
-            "street": "",
-            "zip": "",
-            "city": "",
-            "country": ""
-        },
-        "coords": null,
-        "phone": "",
-        "email": "service@treelax-partner.de",
-        "website": null,
-        "image": null
-    },
-    {
-        "id": 5728620,
-        "name": "STIHL  Vertriebszentrale AG & Co KG",
-        "type": "Firmenmitglied",
-        "address": {
-            "street": "Robert-Bosch-Stra\u00dfe 13",
-            "zip": "64807",
-            "city": "Dieburg",
-            "country": "Deutschland"
-        },
-        "coords": {
-            "lat": 49.9054256,
-            "lon": 8.8163987
-        },
-        "phone": "+49-6071-2040",
-        "email": "andreas.vogelsang@stihl.de",
-        "website": null,
-        "image": "images/5728620.png"
     },
     {
         "id": 5737416,

@@ -98,12 +98,118 @@ def process_members(limit=20):
             with open("public/data.json", "r") as f:
                 old_data = json.load(f)
                 for item in old_data:
-                    existing_coords[item['id']] = item.get('coords')
+                    addr = item.get('address') or {}
+                    zip_code = (addr.get('zip') or '').strip()
+                    city = (addr.get('city') or '').strip()
+                    country = (addr.get('country') or '').strip()
+                    geo_query = f"{zip_code} {city}, {country}".strip().strip(",")
+                    existing_coords[item['id']] = {
+                        "coords": item.get('coords'),
+                        "geo_query": geo_query
+                    }
         except:
             pass
     
     print(f"Processing {len(active_members)} members...")
     
+    group_assignment_cache = {}
+
+    def resolve_group_id(url):
+        if not url:
+            return None
+        url = str(url).strip()
+        if not url:
+            return None
+        if "/member-group/" in url:
+            try:
+                return int(url.rstrip("/").split("/")[-1])
+            except Exception:
+                return None
+        cached = group_assignment_cache.get(url)
+        if cached is not None:
+            return cached
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=20)
+            if r.status_code != 200:
+                group_assignment_cache[url] = None
+                return None
+            data = r.json()
+            mg = data.get("memberGroup") if isinstance(data, dict) else None
+            if mg and "/member-group/" in str(mg):
+                gid = int(str(mg).rstrip("/").split("/")[-1])
+                group_assignment_cache[url] = gid
+                return gid
+        except Exception:
+            pass
+        group_assignment_cache[url] = None
+        return None
+
+    def normalize_country(value):
+        v = (value or "").strip()
+        if not v:
+            return ""
+        v_lower = v.lower()
+        if v_lower in ("de", "deu", "ger", "germany"):
+            return "Deutschland"
+        if v_lower == "d":
+            return "Deutschland"
+        if "deutsch" in v_lower:
+            return "Deutschland"
+        if v_lower == "france":
+            return "Frankreich"
+        return v
+
+    def is_germany(value):
+        v = (value or "").strip().lower()
+        return v in ("de", "deu", "ger", "germany", "deutschland", "d") or ("deutsch" in v)
+
+    def pick_address(contact, is_company):
+        p_street = (contact.get("street") or "").strip()
+        p_zip = (contact.get("zip") or "").strip()
+        p_city = (contact.get("city") or "").strip()
+        p_country = normalize_country(contact.get("country"))
+
+        c_street = (contact.get("companyStreet") or "").strip()
+        c_zip = (contact.get("companyZip") or "").strip()
+        c_city = (contact.get("companyCity") or "").strip()
+        c_country = normalize_country(contact.get("companyCountry"))
+
+        use_company = False
+        if is_company:
+            use_company = True
+        elif (c_city or c_zip) and not (p_city and p_zip):
+            use_company = True
+        elif (c_city or c_zip) and c_country and p_country and is_germany(c_country) and not is_germany(p_country):
+            use_company = True
+
+        if use_company and not (c_street or c_city or c_zip):
+            use_company = False
+
+        if use_company:
+            street, zip_code, city, country = c_street, c_zip, c_city, c_country
+            if not country and p_country:
+                country = p_country
+            if not city and p_city:
+                city = p_city
+            if not zip_code and p_zip:
+                zip_code = p_zip
+            if not street and p_street:
+                street = p_street
+        else:
+            street, zip_code, city, country = p_street, p_zip, p_city, p_country
+            if (not (city and zip_code)) and (c_city or c_zip):
+                street, zip_code, city, country = c_street, c_zip, c_city, c_country
+                if not country and p_country:
+                    country = p_country
+                if not city and p_city:
+                    city = p_city
+                if not zip_code and p_zip:
+                    zip_code = p_zip
+                if not street and p_street:
+                    street = p_street
+
+        return street, zip_code, city, country
+
     for i, member in enumerate(active_members):
         print(f"[{i+1}/{len(active_members)}] Processing {member.get('id')} - {member.get('contactDetails', {}).get('name', 'Unknown')}")
         
@@ -122,8 +228,7 @@ def process_members(limit=20):
             
         # 1. Determine Type (Einzel vs Firma)
         member_type = "Einzelmitglied"
-        # We need to fetch groups to be sure
-        groups_response = fetch_groups(member['id'])
+        groups_response = member.get('memberGroups') or []
         
         # Handle paginated response or direct list
         groups_data = []
@@ -138,6 +243,7 @@ def process_members(limit=20):
         # {'memberGroup': 'https://.../member-group/417172998', ...}
         
         is_company = False
+        is_relevant_member = len(groups_data) == 0
         for g in groups_data:
             # Check if g is a dict or string
             # The API might return list of URLs if using 'groups' attribute directly on member object
@@ -176,7 +282,9 @@ def process_members(limit=20):
                          url_to_check = g
                     
                     if url_to_check:
-                        group_id = int(url_to_check.rstrip('/').split('/')[-1])
+                        group_id = resolve_group_id(url_to_check)
+                        if group_id in (GROUP_EINZEL, GROUP_FIRMA, GROUP_FIRMA_PREMIUM):
+                            is_relevant_member = True
                         # Debug: Print found group ID for company-like names to verify
                         if contact.get('companyName'):
                             print(f"DEBUG: Member {member['id']} ({contact.get('companyName')}) has group ID: {group_id}")
@@ -214,6 +322,9 @@ def process_members(limit=20):
                 except Exception as e:
                     # print(f"Error parsing group: {e}")
                     pass
+
+        if not is_relevant_member:
+            continue
         
         # Override based on companyName presence if strictly requested?
         # User said: "looks like we lost the company members ('Firmenmitgliede), can you check and re map again?"
@@ -239,8 +350,7 @@ def process_members(limit=20):
 
         # 2. Get Website (Homepage)
         website = ""
-        # Fetch custom fields
-        cfields_response = fetch_custom_fields(member['id'])
+        cfields_response = []
         
         cfields = []
         if isinstance(cfields_response, dict):
@@ -281,35 +391,25 @@ def process_members(limit=20):
              website = contact.get('website') or contact.get('companyWebsite')
         
         # 3. Get Image
-        image_url = member.get('_profilePicture')
         local_image = None
-        if is_company and image_url:
-             local_image = download_image(image_url, member['id'])
+        image_path = os.path.join("public", "images", f"{member['id']}.png")
+        if os.path.exists(image_path):
+            local_image = f"images/{member['id']}.png"
         
         # 4. Geocode
-        # Prefer company address if company
-        street = contact.get('companyStreet') if is_company else contact.get('street')
-        zip_code = contact.get('companyZip') if is_company else contact.get('zip')
-        city = contact.get('companyCity') if is_company else contact.get('city')
-        country = contact.get('companyCountry') if is_company else contact.get('country')
-        
-        # Fallback to private address if company address is empty
-        if not street:
-            street = contact.get('street')
-            zip_code = contact.get('zip')
-            city = contact.get('city')
-            country = contact.get('country')
+        street, zip_code, city, country = pick_address(contact, is_company)
             
         address_str = f"{street}, {zip_code} {city}, {country}".strip(", ")
         coords = None
         if city: # Only geocode if we at least have a city
             # Check if we have a valid address to geocode
             # To save time/limit, we can just geocode "Zip City Country" if street is sensitive or empty
-            geo_query = f"{zip_code} {city}, {country}"
+            geo_query = f"{zip_code} {city}, {country}".strip().strip(",")
             
             # Check cache
-            if member['id'] in existing_coords and existing_coords[member['id']]:
-                coords = existing_coords[member['id']]
+            cached = existing_coords.get(member['id'])
+            if cached and cached.get("coords") and cached.get("geo_query") == geo_query:
+                coords = cached.get("coords")
             else:
                 coords = get_coordinates(geo_query)
                 time.sleep(1) # Respect Nominatim rate limit (1 per sec)
