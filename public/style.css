@@ -132,7 +132,7 @@ body {
 }
 
 .members-table table {
-  width: max-content;
+  width: 100%;
   border-collapse: collapse;
   table-layout: auto;
   min-width: 900px;
