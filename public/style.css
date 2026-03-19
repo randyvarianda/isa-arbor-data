@@ -85,7 +85,7 @@ header {
 }
 
 .member-card.Firmenmitglied {
-  border-left-color: #e74c3c;
+  border-left-color: #c8f69b;
 }
 
 .member-card:hover {
@@ -119,8 +119,185 @@ header {
   text-transform: uppercase;
   letter-spacing: 0.5px;
   font-weight: bold;
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
 }
 
+.member-card.Firmenmitglied .member-type {
+  background-color: #c8f69b;
+  color: #2c3e50;
+}
+
+.members-table {
+  width: 100%;
+  overflow-x: auto;
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.members-table table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.members-table th,
+.members-table td {
+  padding: 12px 14px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+  vertical-align: middle;
+  font-size: 14px;
+}
+
+.members-table th {
+  background: #f7f7f7;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.members-table tr:hover td {
+  background: #fafafa;
+}
+
+.name-cell {
+  min-width: 360px;
+}
+
+.type-cell {
+  width: 90px;
+  white-space: nowrap;
+}
+
+.city-cell {
+  min-width: 170px;
+}
+
+.contact-cell {
+  width: 200px;
+}
+
+.name-wrap {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.logo-wrap {
+  width: 36px;
+  height: 36px;
+  flex: 0 0 36px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.table-logo {
+  width: 36px;
+  height: 36px;
+  object-fit: contain;
+  border-radius: 4px;
+  background: #f6f6f6;
+}
+
+.table-logo-fallback {
+  width: 36px;
+  height: 36px;
+  border-radius: 6px;
+  background: #f2f2f2;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #b5b5b5;
+  font-weight: 800;
+}
+
+.name-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.name-link {
+  color: #1f6f4a;
+  text-decoration: none;
+  font-weight: 700;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.name-link:hover {
+  text-decoration: underline;
+}
+
+.name-text {
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.external-svg {
+  width: 14px;
+  height: 14px;
+  opacity: 0.55;
+}
+
+.type-pill {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  background: #eef2f5;
+  color: #2c3e50;
+}
+
+.type-pill.firma {
+  background: #c8f69b;
+  color: #2c3e50;
+}
+
+.type-pill.einzel {
+  background: #eef2f5;
+  color: #2c3e50;
+}
+
+.contact-icons {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: nowrap;
+  justify-content: flex-end;
+}
+
+.contact-icon {
+  width: 28px;
+  height: 28px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: #1f6f4a;
+  background: rgba(31, 111, 74, 0.08);
+  text-decoration: none;
+}
+
+.contact-icon:hover {
+  background: rgba(31, 111, 74, 0.14);
+}
+
+.contact-icon.disabled {
+  opacity: 0.35;
+}
+
+.contact-svg {
+  width: 16px;
+  height: 16px;
+}
 .member-details p {
   margin: 5px 0;
   font-size: 0.9em;
