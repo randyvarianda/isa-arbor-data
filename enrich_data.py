@@ -60,22 +60,26 @@ def download_image(url, member_id):
 def fetch_custom_fields(member_id):
     url = f"https://easyverein.com/api/v2.0/member/{member_id}/custom-fields?limit=100"
     try:
-        response = requests.get(url, headers=HEADERS)
+        response = requests.get(url, headers=HEADERS, timeout=20)
         if response.status_code == 200:
+            time.sleep(0.7)
             return response.json()
     except Exception as e:
         print(f"Error fetching custom fields for {member_id}: {e}")
+        time.sleep(0.7)
     return []
 
 def fetch_groups(member_id):
     # This endpoint lists groups a member belongs to
     url = f"https://easyverein.com/api/v2.0/member/{member_id}/groups?limit=100"
     try:
-        response = requests.get(url, headers=HEADERS)
+        response = requests.get(url, headers=HEADERS, timeout=20)
         if response.status_code == 200:
+            time.sleep(0.7)
             return response.json()
     except Exception as e:
         print(f"Error fetching groups for {member_id}: {e}")
+        time.sleep(0.7)
     return []
 
 def process_members(limit=20):
@@ -105,7 +109,8 @@ def process_members(limit=20):
                     geo_query = f"{zip_code} {city}, {country}".strip().strip(",")
                     existing_coords[item['id']] = {
                         "coords": item.get('coords'),
-                        "geo_query": geo_query
+                        "geo_query": geo_query,
+                        "website": item.get("website")
                     }
         except:
             pass
@@ -228,7 +233,7 @@ def process_members(limit=20):
             
         # 1. Determine Type (Einzel vs Firma)
         member_type = "Einzelmitglied"
-        groups_response = member.get('memberGroups') or []
+        groups_response = fetch_groups(member['id']) if (member.get('memberGroups') or []) else []
         
         # Handle paginated response or direct list
         groups_data = []
@@ -350,7 +355,10 @@ def process_members(limit=20):
 
         # 2. Get Website (Homepage)
         website = ""
-        cfields_response = []
+        cached = existing_coords.get(member['id'])
+        if cached and cached.get("website"):
+            website = cached.get("website") or ""
+        cfields_response = [] if website else fetch_custom_fields(member['id'])
         
         cfields = []
         if isinstance(cfields_response, dict):
