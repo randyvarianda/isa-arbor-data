@@ -1,9 +1,14 @@
+import os
 import requests
 import json
 import time
 
-API_TOKEN = "9087f914ada0489b766a4301cfbe33992452248f"
+API_TOKEN = os.environ.get("EASYVEREIN_API_TOKEN")
+if not API_TOKEN:
+    raise RuntimeError("Missing EASYVEREIN_API_TOKEN")
+
 BASE_URL = "https://easyverein.com/api/v2.0"
+
 HEADERS = {
     "Authorization": f"Bearer {API_TOKEN}",
     "Content-Type": "application/json"
